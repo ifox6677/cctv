@@ -1,0 +1,33 @@
+name: Sync External Repo File
+
+on:
+  # 定时触发，设置为每天凌晨 3 点
+  schedule:
+    - cron: '0 3 * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+
+jobs:
+  sync-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 检出自己的仓库
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      # 从其他仓库拉取特定文件
+      - name: Fetch RAW file from another repo
+        run: |
+          # 替换 URL 为你想要同步的 RAW 文件的 URL
+          curl -o https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+
+      # 提交更新到自己的仓库
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add path/to/your/local/file
+          git commit -m "Sync file from external repo"
+          git push
