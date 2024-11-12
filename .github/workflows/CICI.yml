@@ -21,7 +21,7 @@ jobs:
       - name: Fetch RAW file from another repo
         run: |
           # 替换 URL 为你想要同步的 RAW 文件的 URL
-          curl -o https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+          curl -o ./merged_output.txt https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 
       # 提交更新到自己的仓库
       - name: Commit and Push Changes
