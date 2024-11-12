@@ -2,11 +2,11 @@ name: Sync External Repo File
 
 on:
   # 定时触发，设置为每天凌晨 3 点
-  schedule:
-    - cron: '0 3 * * *'
+ schedule:
+     - cron: '0 12 8 * *'
   
   # 手动触发
-  workflow_dispatch:
+ workflow_dispatch:
 
 jobs:
   sync-file:
