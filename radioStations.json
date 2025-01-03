@@ -1,3 +1,4 @@
+
 [  
   {
     name: '广东新闻',
@@ -86,7 +87,7 @@
   },  
   {
     name: '全国FM',
-    imageUrl: require('../assets/images/全国FM.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E5%85%A8%E5%9B%BDFM.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://stream.rcs.revma.com/044q61ha7a0uv',  // 电台播放链接
     category: 'taiwan', // Added category
   },  
@@ -183,55 +184,55 @@
   },
   {
     name: '好事983',
-    imageUrl: require('../assets/images/best.jpg'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/best.jpg',  // 示例图片链接
     iurl: 'https://stream.rcs.revma.com/q2m07dc59duvv',
     category: 'taiwan', // Added category
   },
   {
     name: '好事989',
-    imageUrl: require('../assets/images/best.jpg'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/best.jpg',  // 示例图片链接
     iurl: 'https://stream.rcs.revma.com/fkdywbc59duvv',
     category: 'taiwan', // Added category
   },
   {
     name: '新城财经',
-    imageUrl: require('../assets/images/metro-finance-fm.jpg',  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://1864288729.rsc.cdn77.org/1864288729/tracks-a1/mono.m3u8',  // 电台播放链接
     category: 'GDHK', // Added category
   },
   {
     name: '新城资讯',
-    imageUrl: require('../assets/images/metro-showbiz-fm.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://1849807346.rsc.cdn77.org/1849807346/index.m3u8',  // 电台播放链接
     category: 'GDHK', // Added category
   },  
   {
     name: '普通话台',
-    imageUrl: require('../assets/images/rthk-putonghua.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8',  // 电台播放链接
     category: 'GDHK', // Added category
   },
   {
     name: 'rthk-1',
-    imageUrl: require('../assets/images/rthk-1.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8',  // 电台播放链接
     category: 'GDHK', // Added category
   },
   {
     name: 'rthk-2',
-    imageUrl: require('../assets/images/rthk-2.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8',  // 电台播放链接
     category: 'GDHK', // Added category
   },
   {
     name: 'rthk-5',
-    imageUrl: require('../assets/images/rthk-5.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://stm.rthk.hk/radio5',  // 电台播放链接
     category: 'GDHK', // Added category
   },  
   {
     name: '澳门电台',
-    imageUrl: require('../assets/images/aomen.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/aomen.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://www.tdm.com.mo/zh-hant/live?Channel=3&type=radio',  // 电台播放链接
     category: 'GDHK', // Added category
   },
@@ -249,134 +250,134 @@
   },  
   {
     name: '晨早新闻天地',
-    imageUrl: require('../assets/images/bkhkczxw.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/bkhkczxw.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://podcast.rthk.hk/podcast/item.php?pid=916&eid=251456&lang=zh-CN',  // 电台播放链接
     category: 'podcast', // Added category
   },
   {
     name: '商业电台881(备)',
-    imageUrl: require('../assets/images/881.png'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png',  // 示例图片链接
     iurl: 'https://live.881903.com/edge-aac/881hd/chunks.m3u8',
     category: 'GDHK', // Added category
   },
   {
     name: '商业电台903(备)',
-    imageUrl: require('../assets/images/903.png'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://www.881903.com/live/903',  // 电台播放链接
     category: 'GDHK', // Added category
   },
   {
     name: 'rthk-1(备)',
-    imageUrl: require('../assets/images/rthk-1.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://stm.rthk.hk/radio1',  // 电台播放链接
     category: 'GDHK', // Added category
   },
   {
     name: 'rthk-2(备)',
-    imageUrl: require('../assets/images/rthk-2.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://stm.rthk.hk/radio2',  // 电台播放链接
     category: 'GDHK', // Added category
   },  
   {
     name: 'MIX音乐',
-    imageUrl: require('../assets/images/e759fb6f.png'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/e759fb6f.png',  // 示例图片链接
     iurl: 'https://play.gojoy.org/audio/stream',
     category: 'Music', // Added category
   },
   {
     name: '飞扬调频',
-    imageUrl: require('../assets/images/fly-radio-fm-89-5.jpg'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/fly-radio-fm-89-5.jpg',  // 示例图片链接
     iurl: 'https://stream.rcs.revma.com/e0tdah74hv8uv',
     category: 'taiwan', // Added category
   },  
   {
     name: 'e线金融网',
-    imageUrl: require('../assets/images/hkpth.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/hkpth.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://podcast.rthk.hk/podcast/item.php?pid=1788&lang=zh-CN',  // 电台播放链接
     category: 'podcast', // Added category
   },
   {
     name: '无线新闻',
-    imageUrl: require('../assets/images/tvbimage.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/tvbimage.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://player.soundon.fm/p/07593470-9f99-4b05-b8d2-98a6350a2891',  // 电台播放链接
     category: 'podcast', // Added category
   },  
   {
     name: 'hitfm',
-    imageUrl: require('../assets/images/hq720.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/hq720.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://www.hitoradio.com/newweb/onair_n_ajax.php',  // 电台播放链接
     category: 'taiwan', // Added category
   },
   {
     name: '复兴电台',
-    imageUrl: require('../assets/images/new4.png'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/new4.png',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://fhbs.com.tw/listening/',  // 电台播放链接
     category: 'taiwan', // Added category
   },
   {
     name: '汉声电台',
-    imageUrl: require('../assets/images/voice-of-han-broadcasting-netw.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx',  // 电台播放链接
     category: 'taiwan', // Added category
   },
   {
     name: '台北电台',
-    imageUrl: require('../assets/images/tbs.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/tbs.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8',  // 电台播放链接
     category: 'taiwan', // Added category
   },
   {
     name: '硅谷101',
-    imageUrl: require('../assets/images/9898989.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/9898989.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://www.xiaoyuzhoufm.com/podcast/5e5c52c9418a84a04625e6cc',  // 电台播放链接
     category: 'podcast', // Added category
   },  
   {
     name: '科技早知道',
-    imageUrl: require('../assets/images/jEtYT.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/jEtYT.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://www.xiaoyuzhoufm.com/podcast/5e74b52c418a84a046ecaceb',  // 电台播放链接
     category: 'podcast', // Added category
   },  
   {
     name: '台北电台AM',
-    imageUrl: require('../assets/images/tbs.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/tbs.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8',  // 电台播放链接
     category: 'taiwan', // Added category
   },  
   {
     name: '周公讲鬼',
-    imageUrl: require('../assets/images/zgjg.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/zgjg.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     //rssUrl: 'https://player.soundon.fm/p/cb216809-0f9b-4d4f-9bd1-29507b8ebcfa',  // 电台播放链接
     iurl: 'https://player.soundon.fm/p/cb216809-0f9b-4d4f-9bd1-29507b8ebcfa',  // 电台播放链接	
     category: 'podcast', // Added category
   },  
   {
     name: '讲台',
-    imageUrl: require('../assets/images/talk.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/talk.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://live.talkonly.net:8443/talkonly.mp3',  // 电台播放链接
     category: 'podcast', // Added category
   },
   {
     name: '高雄FM',
-    imageUrl: require('../assets/images/8fm.png'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/8fm.png',  // 示例图片链接
     iurl: 'https://stream-eu-a.rcs.revma.com/pet2dvug1bkvv',
     category: 'taiwan', // Added category
   },  
   {
     name: '高雄AM',
-    imageUrl: require('../assets/images/988.png'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/988.png',  // 示例图片链接
     iurl: 'https://stream-eu-a.rcs.revma.com/4r99rt1g1bkvv',
     category: 'taiwan', // Added category
   },  
   {
     name: '奇美爱乐',
-    imageUrl: require('../assets/images/kv.png'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/kv.png',  // 示例图片链接
     iurl: 'https://e-classical.com.tw/index.html',
     category: 'Music', // Added category
   },  
   {
     name: '台北爱乐电台',
-    imageUrl: require('../assets/images/aylogo.png'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/aylogo.png',  // 示例图片链接
     iurl: 'https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm903/chunklist_w1430462928.m3u8',
     category: 'Music', // Added category
   },
@@ -400,7 +401,7 @@
   },
   {
     name: '故事FM',
-    imageUrl: require('../assets/images/dHAucG5n.png'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/dHAucG5n.png',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://www.xiaoyuzhoufm.com/podcast/5e280fad418a84a0461fb38b',  // 电台播放链接
     category: 'podcast', // Added category
   },
@@ -418,13 +419,13 @@
   },
     {
     name: '大声广播',
-    imageUrl: require('../assets/images/Xfa3C9vcsw.png'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/Xfa3C9vcsw.png',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3',  // 电台播放链接
     category: 'taiwan',
   },
   {
     name: '城市广播901',
-    imageUrl: require('../assets/images/cityfm.png'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/cityfm.png',  // 示例图片链接
     iurl: 'http://fm901.cityfm.tw:8080/901.mp3',
     category: 'taiwan', // Added category
   },  
@@ -460,25 +461,25 @@
   },
   {
     name: '中广go',
-    imageUrl: require('../assets/images/radio-i-go-531.png'),
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/radio-i-go-531.png',
     iurl: 'https://stream.rcs.revma.com/s7hc9kpy2tzuv',
     category: 'taiwan', // Added category
   },
   {
     name: '台中电台',
-    imageUrl: require('../assets/images/fm1007.png'),
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/fm1007.png',
     iurl: 'http://211.20.119.101:8081',
     category: 'taiwan', // Added category
   },
   {
     name: '美声电台',
-    imageUrl: require('../assets/images/nbc-fm91-5.png'),
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/nbc-fm91-5.png',
     iurl: 'http://1.34.23.16:8080/broadwavehigh.mp3',
     category: 'taiwan', // Added category
   },  
   {
     name: '宝岛客家',
-    imageUrl: require('../assets/images/fm937.jpg'),
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/fm937.jpg',
     iurl: 'http://taiwan-radio.tw:8000/TP.FM93.7',
     category: 'taiwan', // Added category
   },  
@@ -490,7 +491,7 @@
   },
   {
     name: '台艺之声',
-    imageUrl: require('../assets/images/vota.jpg'),  // 示例图片链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/vota.jpg',  // 示例图片链接
     iurl: 'https://votastream.ntua.edu.tw:8443/vota',
     category: 'Music', // Added category
   },  
@@ -520,7 +521,7 @@
   },
   {
     name: '晚间新闻',
-    imageUrl: require('../assets/images/170x170_919.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/170x170_919.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://podcast.rthk.hk/podcast/item.php?pid=919&lang=zh-CN',  // 电台播放链接
     category: 'podcast', // Added category
   },  
@@ -532,37 +533,37 @@
   },  
   {
     name: '说诡讲鬼',
-    imageUrl: require('../assets/images/jgimage.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/jgimage.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://player.soundon.fm/p/0fe1b9ca-d238-4fac-985c-69d5b4255d51',  // 电台播放链接
     category: 'podcast', // Added category
   },
   {
     name: '财讯',
-    imageUrl: require('../assets/images/cfimage.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/cfimage.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://player.soundon.fm/p/f9b8df6f-b612-4a27-8335-cfd2103c1aa4',  // 电台播放链接
     category: 'podcast', // Added category
   },
   {
     name: '鬼遮眼',
-    imageUrl: require('../assets/images/1645942133053.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/1645942133053.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://player.soundon.fm/p/f8966ee8-5c68-4a65-8de7-346ff4fd9246',  // 电台播放链接
     category: 'podcast', // Added category
   },   
   {
     name: '灵异鬼事',
-    imageUrl: require('../assets/images/ytimage.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/ytimage.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://player.soundon.fm/p/1d502a17-e812-49f6-9597-69e83c338583',  // 电台播放链接
     category: 'podcast', // Added category
   },
   {
     name: '高能量',
-    imageUrl: require('../assets/images/Fv0yZMvUrM25J1lQr20A3ABUqLk-.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/Fv0yZMvUrM25J1lQr20A3ABUqLk-.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://www.xiaoyuzhoufm.com/podcast/62c6ae08c4eaa82b112b9c84',  // 电台播放链接
     category: 'podcast', // Added category
   },  
   {
     name: '疑案辦',
-    imageUrl: require('../assets/images/1632979900770.jpg'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/1632979900770.jpg',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://player.soundon.fm/p/21539575-c5a9-4179-bfa8-bd973c333b0d',  // 电台播放链接
 	//iurl: 'https://www.youtube.com/channel/UCLZBXiS9ZrIXgKBs_SMfGBQ',
     category: 'podcast', // Added category
@@ -570,7 +571,7 @@
   },
   {
     name: '正声广播',
-    imageUrl: require('../assets/images/lsnruspdmtat.png'),  // 示例图片链接，替换成你自己的电台台标链接
+    imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/lsnruspdmtat.png',  // 示例图片链接，替换成你自己的电台台标链接
     iurl: 'https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w349817577.m3u8',  // 电台播放链接
     category: 'taiwan', // Added category
   },
