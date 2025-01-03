@@ -295,14 +295,14 @@
   },
   {
     "name": "KAZN1300",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kazn.jpg",  
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kazn.png",  
     "iurl": "http://mobilewzrc.serverroom.us:6914/;stream.mp3",
     "category": "taiwan" 
   },   
 
   {
     "name": "ufm1003",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/ufm.png",  
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ufm.png",  
     "iurl": "https://28153.live.streamtheworld.com/UFM_1003AAC_SC",
     "category": "taiwan" 
   },   
