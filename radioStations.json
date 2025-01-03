@@ -224,7 +224,7 @@
   {
     "name": "rthk-5",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
-    "iurl": "https://stm.rthk.hk/radio5",   
+    "iurl": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8",   
     "category": "GDHK"  
   },  
   {
@@ -274,6 +274,12 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://stm.rthk.hk/radio2",   
     "category": "GDHK"  
+  },
+  {
+    "name": "rthk-5（备）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
+    "iurl": "https://stm.rthk.hk/radio5",   
+    "category": "GDHK"  
   },  
   {
     "name": "MIX音乐",
@@ -285,6 +291,25 @@
     "name": "飞扬调频",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fly-radio-fm-89-5.jpg",  
     "iurl": "https://stream.rcs.revma.com/e0tdah74hv8uv",
+    "category": "taiwan"  
+  },
+  {
+    "name": "KAZN1300",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kazn.jpg",  
+    "iurl": "http://mobilewzrc.serverroom.us:6914/;stream.mp3",
+    "category": "taiwan" 
+  },   
+
+  {
+    "name": "ufm1003",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/ufm.png",  
+    "iurl": "https://28153.live.streamtheworld.com/UFM_1003AAC_SC",
+    "category": "taiwan" 
+  },   
+  {
+    "name": "love972",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/love.jpg",   
+    "iurl": "https://28383.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk",   
     "category": "taiwan"  
   },  
   {
