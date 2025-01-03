@@ -669,6 +669,31 @@
     "category": "podcast"  
   },
   {
+    "name": "凤城广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hi-radio-fm-98-7.jpg",  
+    "iurl": "http://61.220.245.236:8080",
+    "category": "taiwan" 
+  },   
+  {
+    "name": "世新电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/shrs-88-1-fm.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0115lo-89xv/_definst_/fm881/chunklist_w852256703.m3u8",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "cancheers",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/cancheers.png",  
+    "iurl": "https://us3.internet-radio.com/proxy/cancheers?mp=/stream",
+    "category": "taiwan" 
+  },   
+  {
+    "name": "亚太电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/asia923.jpg",   
+    "iurl": "https://stream.rcs.revma.com/kydend74hv8uv",   
+    "category": "taiwan"  
+  },
+  
+  {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
     "iurl": "https://zh.player.fm/series/chinese-news-nhk-world-radio-japan/nhk-world-radio-japan-chinese-news-at-1300-jst-january-01",   
