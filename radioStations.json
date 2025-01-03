@@ -1,8 +1,8 @@
 [  
   {
     "name": "广东新闻",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  // 示例图片链接，替换成你自己的电台台标链接
-    "iurl": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8",  // 电台播放链接
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8", 
 	  //"iurl":"https://live.881903.com/edge-aac/903hd/chunks.m3u8",
     "category": "GDHK", // Added "category"
   },
