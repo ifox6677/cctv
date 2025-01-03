@@ -303,14 +303,14 @@
   {
     "name": "ufm1003",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ufm.png",  
-    "iurl": "https://28153.live.streamtheworld.com/UFM_1003AAC_SC",
-    "category": "taiwan" 
+    "iurl": "https://www.ufm1003.sg/",
+    "category": "Music" 
   },   
   {
     "name": "love972",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/love.jpg",   
-    "iurl": "https://28383.live.streamtheworld.com/LOVE972FM_PREM_SC?dist=MPL&pname=TDSdk",   
-    "category": "taiwan"  
+    "iurl": "https://www.melisten.sg/radio/love-972",   
+    "category": "Music"  
   },  
   {
     "name": "e线金融网",
