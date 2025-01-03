@@ -509,6 +509,12 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fm937.jpg",
     "iurl": "http://taiwan-radio.tw:8000/TP.FM93.7",
     "category": "taiwan"  
+  }, 
+  {
+    "name": "神农广播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fm995.jpg",  
+    "iurl": "https://stream.rcs.revma.com/uyaghqmdm3hvv.m4a",
+    "category": "taiwan" 
   },  
   {
     "name": "CNR音乐之声",
