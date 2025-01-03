@@ -601,6 +601,31 @@
     "category": "china" 
   },
   {
+    "name": "西游记",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E8%A5%BF%E6%B8%B8%E8%AE%B0.jpg",  
+    "iurl": "https://www.itingshu.net/youshengxiaoshuo/21722/",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "三国演义",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%B8%89%E5%9B%BD.jpg",   
+    "iurl": "https://www.itingshu.net/youshengxiaoshuo/33339/",   
+    "category": "audiobook"  
+  },
+  {
+    "name": "乡村鬼故事",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/npr.png",  
+    "iurl": "https://www.itingshu.net/youshengxiaoshuo/24841/",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "鹿鼎记",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E9%B9%BF%E9%BC%8E%E8%AE%B0.jpg",   
+    "iurl": "https://www.itingshu.net/youshengxiaoshuo/24280/",   
+    "category": "audiobook"  
+  },
+  
+  {
     "name": "AM1480",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/myradio.png",  
     "iurl": "http://mobilewzrc.serverroom.us:6834/;stream.mp3/",
