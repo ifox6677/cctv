@@ -149,7 +149,6 @@
     "iurl": "https://stream.rcs.revma.com/fgtx07f3qtzuv",
     "category": "taiwan",  
   },
-  // 可以继续添加更多电台
   {
     "name": "客家电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
@@ -555,7 +554,7 @@
   },
   {
     "name": "高能量",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/Fv0yZMvUrM25J1lQr20A3ABUqLk-.jpg"),   
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/Fv0yZMvUrM25J1lQr20A3ABUqLk-.jpg",   
     "iurl": "https://www.xiaoyuzhoufm.com/podcast/62c6ae08c4eaa82b112b9c84",   
     "category": "podcast",  
   },  
@@ -563,9 +562,7 @@
     "name": "疑案辦",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/1632979900770.jpg",   
     "iurl": "https://player.soundon.fm/p/21539575-c5a9-4179-bfa8-bd973c333b0d",   
-	//"iurl": "https://www.youtube.com/channel/UCLZBXiS9ZrIXgKBs_SMfGBQ",
     "category": "podcast",  
-	//https://www.youtube.com/channel/UCLZBXiS9ZrIXgKBs_SMfGBQ
   },
   {
     "name": "正声广播",
