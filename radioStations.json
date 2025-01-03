@@ -313,7 +313,7 @@
   },
   {
     "name": "汉声电台",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg"),   
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
     "iurl": "https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx",   
     "category": "taiwan",  
   },
@@ -343,8 +343,7 @@
   },  
   {
     "name": "周公讲鬼",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/zgjg.jpg",   
-    //rssUrl: "https://player.soundon.fm/p/cb216809-0f9b-4d4f-9bd1-29507b8ebcfa",   
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/zgjg.jpg",     
     "iurl": "https://player.soundon.fm/p/cb216809-0f9b-4d4f-9bd1-29507b8ebcfa",   	
     "category": "podcast",  
   },  
