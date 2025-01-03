@@ -160,6 +160,12 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/online2.jpg",  
     "iurl": "https://dgrtv.sun0769.com/index.php/online2/2",
     "category": "GDHK"  
+  }, 
+  {
+    "name": "河北音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E6%B2%B3%E5%8C%97%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8",   
+    "category": "GDHK"  
   },  
   {
     "name": "中国之声",
