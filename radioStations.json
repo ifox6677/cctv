@@ -1,4 +1,4 @@
-[  
+const data = [  
   {
     name: '广东新闻',
     imageUrl: 'https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png',  // 示例图片链接，替换成你自己的电台台标链接
@@ -629,4 +629,5 @@
     iurl: 'https://zh.player.fm/series/chinese-news-nhk-world-radio-japan/nhk-world-radio-japan-chinese-news-at-1300-jst-january-01',  // 电台播放链接
     category: 'podcast', // Added category
   },  
-]
+];
+console.log(JSON.stringify(data, null, 2));
