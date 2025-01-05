@@ -200,13 +200,13 @@
   {
     "name": "新城财经",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
-    "iurl": "https://1864288729.rsc.cdn77.org/1864288729/tracks-a1/mono.m3u8",   
+    "iurl": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",   
     "category": "GDHK"  
   },
   {
     "name": "新城资讯",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
-    "iurl": "https://1849807346.rsc.cdn77.org/1849807346/index.m3u8",   
+    "iurl": "https://www.metroradio.com.hk/superhome/Live997.aspx",   
     "category": "GDHK"  
   },  
   {
@@ -216,17 +216,35 @@
     "category": "GDHK"  
   },
   {
+    "name": "普通话台HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
+    "iurl": "https://www.rthk.hk/radio/pth",   
+    "category": "GDHK"  
+  }  
+  {
     "name": "rthk-1",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
     "iurl": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",   
     "category": "GDHK"  
   },
   {
+    "name": "rthk-1HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
+    "iurl": "https://www.rthk.hk/radio/radio1",   
+    "category": "GDHK"  
+  },  
+  {
     "name": "rthk-2",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8",   
     "category": "GDHK"  
   },
+  {
+    "name": "rthk-2HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
+    "iurl": "https://www.rthk.hk/radio/radio2",   
+    "category": "GDHK"  
+  },  
   {
     "name": "rthk-5",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
@@ -285,6 +303,18 @@
     "name": "rthk-5（备）",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
     "iurl": "https://stm.rthk.hk/radio5",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "新城财经（备）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
+    "iurl": "https://1864288729.rsc.cdn77.org/1864288729/tracks-a1/mono.m3u8",   
+    "category": "GDHK"  
+  },
+  {
+    "name": "新城资讯（备）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
+    "iurl": "https://1849807346.rsc.cdn77.org/1849807346/index.m3u8",   
     "category": "GDHK"  
   },  
   {
