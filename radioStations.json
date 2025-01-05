@@ -14,7 +14,7 @@
   {
     "name": "广东音乐",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gd993.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/87",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8",   
     "category": "Music"  
   },
   {
@@ -26,13 +26,13 @@
   {
     "name": "珠江台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdjz.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/86",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8",   
     "category": "GDHK"  
   },  
   {
     "name": "羊城交通台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdjt.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/88",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8",   
     "category": "GDHK"  
   },
   {
@@ -44,13 +44,13 @@
   {
     "name": "广东文体",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdwt.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/92",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8",   
     "category": "GDHK"  
   },
   {
     "name": "珠江2台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/zj2.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/98",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8",   
     "category": "GDHK"  
   },  
   {
@@ -74,7 +74,7 @@
   {
     "name": "中广流行网",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-lx.jpg",   
-    "iurl": "https://www.bcc.com.tw/stream.html?c=1",   
+    "iurl": "https://stream.rcs.revma.com/s1zttsg3qtzuv",   
     "category": "taiwan"  
   },  
   {
@@ -158,15 +158,27 @@
   {
     "name": "中广新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-news.jpg",  
+    "iurl": "https://stream.rcs.revma.com/fgtx07f3qtzuv",
+    "category": "taiwan"  
+  },  
+  {
+    "name": "中广新闻HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-news.jpg",  
     "iurl": "http://www.bcc.com.tw/stream.html?c=2",
     "category": "taiwan"  
   },
   {
-    "name": "客家电台",
+    "name": "讲客电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
     "iurl": "https://stream-eu-a.rcs.revma.com/akqrbx94gbkvv",
     "category": "GDHK"  
-  }, 
+  },
+  {
+    "name": "讲客电台HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
+    "iurl": "https://www.hakkaradio.org.tw/schedule/view",
+    "category": "GDHK"  
+  },  
   {
     "name": "东莞交通",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/online2.jpg",  
@@ -228,17 +240,35 @@
     "category": "GDHK"  
   },
   {
+    "name": "普通话台HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
+    "iurl": "https://www.rthk.hk/radio/pth",   
+    "category": "GDHK"  
+  }  
+  {
     "name": "rthk-1",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
     "iurl": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",   
     "category": "GDHK"  
   },
   {
+    "name": "rthk-1HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
+    "iurl": "https://www.rthk.hk/radio/radio1",   
+    "category": "GDHK"  
+  },  
+  {
     "name": "rthk-2",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8",   
     "category": "GDHK"  
   },
+  {
+    "name": "rthk-2HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
+    "iurl": "https://www.rthk.hk/radio/radio2",   
+    "category": "GDHK"  
+  },  
   {
     "name": "rthk-5",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
@@ -270,13 +300,13 @@
     "category": "podcast"  
   },
   {
-    "name": "商业电台881(备)",
+    "name": "商业电台881HD",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",  
-    "iurl": "https://live.881903.com/edge-aac/881hd/chunks.m3u8",
+    "iurl": "https://www.881903.com/live/881",
     "category": "GDHK"  
   },
   {
-    "name": "商业电台903(备)",
+    "name": "商业电台903HD",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",   
     "iurl": "https://www.881903.com/live/903",   
     "category": "GDHK"  
