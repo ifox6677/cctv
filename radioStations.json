@@ -1,8 +1,10 @@
+
+
 [  
   {
     "name": "广东新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/85",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8",   
     "category": "GDHK"  
   },
   {
@@ -35,12 +37,6 @@
     "iurl": "https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8",   
     "category": "GDHK"  
   },
-  {
-    "name": "城市之声",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%B9%BF%E4%B8%9C%E5%9F%8E%E5%B8%82%E4%B9%8B%E5%A3%B0.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/90",   
-    "category": "GDHK"  
-  },  
   {
     "name": "广东文体",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdwt.png",   
@@ -87,12 +83,6 @@
     "name": "飞碟电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
     "iurl": "https://stream.rcs.revma.com/em90w4aeewzuv",   
-    "category": "taiwan"  
-  },  
-  {
-    "name": "飞碟电台HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
-    "iurl": "https://www.uforadio.com.tw/schedule",   
     "category": "taiwan"  
   },  
   {
@@ -160,25 +150,13 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-news.jpg",  
     "iurl": "https://stream.rcs.revma.com/fgtx07f3qtzuv",
     "category": "taiwan"  
-  },  
-  {
-    "name": "中广新闻HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-news.jpg",  
-    "iurl": "http://www.bcc.com.tw/stream.html?c=2",
-    "category": "taiwan"  
   },
   {
-    "name": "讲客电台",
+    "name": "客家电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
     "iurl": "https://stream-eu-a.rcs.revma.com/akqrbx94gbkvv",
     "category": "GDHK"  
-  },
-  {
-    "name": "讲客电台HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
-    "iurl": "https://www.hakkaradio.org.tw/schedule/view",
-    "category": "GDHK"  
-  },  
+  }, 
   {
     "name": "东莞交通",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/online2.jpg",  
@@ -224,13 +202,13 @@
   {
     "name": "新城财经",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
-    "iurl": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",   
+    "iurl": "https://1864288729.rsc.cdn77.org/1864288729/tracks-a1/mono.m3u8",   
     "category": "GDHK"  
   },
   {
     "name": "新城资讯",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
-    "iurl": "https://www.metroradio.com.hk/superhome/Live997.aspx",   
+    "iurl": "https://1849807346.rsc.cdn77.org/1849807346/index.m3u8",   
     "category": "GDHK"  
   },  
   {
@@ -240,35 +218,17 @@
     "category": "GDHK"  
   },
   {
-    "name": "普通话台HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
-    "iurl": "https://www.rthk.hk/radio/pth",   
-    "category": "GDHK"  
-  }  
-  {
     "name": "rthk-1",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
     "iurl": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",   
     "category": "GDHK"  
   },
   {
-    "name": "rthk-1HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
-    "iurl": "https://www.rthk.hk/radio/radio1",   
-    "category": "GDHK"  
-  },  
-  {
     "name": "rthk-2",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8",   
     "category": "GDHK"  
   },
-  {
-    "name": "rthk-2HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
-    "iurl": "https://www.rthk.hk/radio/radio2",   
-    "category": "GDHK"  
-  },  
   {
     "name": "rthk-5",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
@@ -300,13 +260,13 @@
     "category": "podcast"  
   },
   {
-    "name": "商业电台881HD",
+    "name": "商业电台881(备)",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",  
-    "iurl": "https://www.881903.com/live/881",
+    "iurl": "https://live.881903.com/edge-aac/881hd/chunks.m3u8",
     "category": "GDHK"  
   },
   {
-    "name": "商业电台903HD",
+    "name": "商业电台903(备)",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",   
     "iurl": "https://www.881903.com/live/903",   
     "category": "GDHK"  
@@ -328,19 +288,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
     "iurl": "https://stm.rthk.hk/radio5",   
     "category": "GDHK"  
-  }, 
-  {
-    "name": "新城财经（备）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
-    "iurl": "https://1864288729.rsc.cdn77.org/1864288729/tracks-a1/mono.m3u8",   
-    "category": "GDHK"  
-  },
-  {
-    "name": "新城资讯（备）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
-    "iurl": "https://1849807346.rsc.cdn77.org/1849807346/index.m3u8",   
-    "category": "GDHK"  
-  },   
+  },  
   {
     "name": "MIX音乐",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/e759fb6f.png",  
