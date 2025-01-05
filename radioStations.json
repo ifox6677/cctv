@@ -94,6 +94,12 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
     "iurl": "https://stream.rcs.revma.com/em90w4aeewzuv",   
     "category": "taiwan"  
+  },
+  {
+    "name": "飞碟电台HD",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
+    "iurl": "https://www.uforadio.com.tw/schedule",   
+    "category": "taiwan"  
   },  
   {
     "name": "全国FM",
@@ -170,7 +176,7 @@
   {
     "name": "讲客电台HD",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
-    "iurl": "https://www.hakkaradio.org.tw/schedule/view",
+    "iurl": "https://www.hakkaradio.org.tw/program/view/id/192/page/1",
     "category": "GDHK"  
   },   
   {
