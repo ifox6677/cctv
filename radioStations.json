@@ -6,14 +6,14 @@
     "category": "GDHK"  
   },
   {
-    "name": "广东新闻HD",
+    "name": "广东电台HD",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
     "iurl": "https://www.gdtv.cn/audioChannelDetail/85",   
     "category": "GDHK"  
   }, 
   {
     "name": "东莞电台",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gd993.jpg",  
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/247.jpg",  
     "iurl": "https://dgrtv.sun0769.com/index.php/online2/1",
     "category": "GDHK"  
   },  
