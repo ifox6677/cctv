@@ -296,7 +296,7 @@
   {
     "name": "晨早新闻天地",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bkhkczxw.jpg",   
-    "iurl": "https://podcast.rthk.hk/podcast/item.php?pid=916&eid=251456&lang=zh-CN",   
+    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/all-episode.htm?cmsid=90",   
     "category": "podcast"  
   },
   {
@@ -375,7 +375,7 @@
   {
     "name": "e线金融网",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hkpth.jpg",   
-    "iurl": "https://podcast.rthk.hk/podcast/item.php?pid=1788&lang=zh-CN",   
+    "iurl": "https://www.rthk.hk/radio/pth/programme/ezone2020",   
     "category": "podcast"  
   },
   {
@@ -609,7 +609,7 @@
   {
     "name": "晚间新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/170x170_919.jpg",   
-    "iurl": "https://podcast.rthk.hk/podcast/item.php?pid=919&lang=zh-CN",   
+    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/all-episode.htm?cmsid=88",   
     "category": "podcast"  
   },  
   {
