@@ -708,11 +708,46 @@
     "iurl": "https://lhttp.qingting.fm/live/5022341/64k.mp3?app_id=web",
     "category": "china" 
   },
-
   {
-    "name": "厦门广播",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%8E%A6%E9%97%A8%E7%BB%BC%E5%90%88%E5%B9%BF%E6%92%AD.png",  
-    "iurl": "https://live1b.kxm.xmtv.cn/aac_zhgbbf_1b/sd/live.m3u8",
+    "name": "联播网",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lianbowang.jpg",  
+    "iurl": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "南宁故事",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/nngs.jpg",  
+    "iurl": "https://hls.nntv.cn/nnradio/895_24.m3u8",
+    "category": "taiwan2" 
+  }, 
+  {
+    "name": "台廣台北一台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "iurl": "http://43.254.16.40:8000/TN.AM801?.mp3",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "天聲廣播",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "iurl": "http://43.254.16.40:8000/ML.AM1215?.mp3",
+    "category": "taiwan2" 
+  },    
+  {
+    "name": "大愛",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "iurl": "https://stream.radiojar.com/eme6n6k3rxhvv",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "星岛中文",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025031035416809.jpg",  
+    "iurl": "https://nap.casthost.net/proxy/florence/stream.mp3",
+    "category": "taiwan2" 
+  },     
+  {
+    "name": "香港电台湾声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025030404119703.jpg",  
+    "iurl": "https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/index_64_a.m3u8",
     "category": "china" 
   },
   {
