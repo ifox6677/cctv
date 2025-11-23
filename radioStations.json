@@ -573,7 +573,7 @@
   {
     "name": "CNR音乐之声",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%9F%B3%E4%B9%90%E4%B9%8B%E5%A3%B0.png",  
-    "iurl": "http://ngcdn003.cnr.cn/live/yyzs/index.m3u8",
+    "iurl": "http://fm901.cityfm.tw:8080/901.mp3",
     "category": "Music"  
   },
   {
