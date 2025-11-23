@@ -114,6 +114,42 @@
     "category": "china" 
   },
   {
+    "name": "上海音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lovefm.jpg",  
+    "iurl": "https://rs.ajmide.com/r_2/live_2.m3u8",
+    "category": "taiwan2" 
+  },
+  {
+    "name": "新客家",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/mlkj.jpg",  
+    "iurl": "http://43.254.16.40:8000/ML.FM91.7?.mp3",
+    "category": "taiwan2" 
+  },  
+  {
+    "name": "北京文艺",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bjwenyi.jpg",  
+    "iurl": "https://brtv-radiolive.rbc.cn/alive/fm876.m3u8",
+    "category": "taiwan2" 
+  },  
+  {
+    "name": "北京城市",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bjcs.jpg",  
+    "iurl": "https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8",
+    "category": "taiwan2" 
+  },  
+  {
+    "name": "华侨之声音乐",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hizsyy.jpg",  
+    "iurl": "https://stream.radiojar.com/60sqadqu97zuv.mp3",
+    "category": "taiwan2" 
+  }, 
+  {
+    "name": "南宁故事",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/nngs.jpg",  
+    "iurl": "https://hls.nntv.cn/nnradio/895_24.m3u8",
+    "category": "taiwan2" 
+  },  
+  {
     "name": "栗子轻音乐",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lizi.png",  
     "iurl": "http://lizeradio.com:8080/;?.mp3",
