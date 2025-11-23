@@ -278,7 +278,7 @@
   {
     "name": "澳门电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/aomen.jpg",   
-    "iurl": "https://www.tdm.com.mo/zh-hant/live?Channel=3&type=radio",   
+    "iurl": "https://live3.tdm.com.mo/live/rch2.live/media_159761.aac",   
     "category": "GDHK"  
   },
   {
@@ -385,21 +385,21 @@
     "category": "podcast"  
   },  
   {
-    "name": "hitfm",
+    "name": "好事聯播網",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hq720.jpg",   
-    "iurl": "https://www.hitoradio.com/newweb/onair_n_ajax.php",   
+    "iurl": "https://stream.rcs.revma.com/fkdywbc59duvv.mp3",   
     "category": "taiwan"  
   },
   {
     "name": "复兴电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/new4.png",   
-    "iurl": "https://fhbs.com.tw/listening/",   
+    "iurl": "https://stream.rcs.revma.com/srn5f9kmwxhvv",   
     "category": "taiwan"  
   },
   {
-    "name": "汉声电台",
+    "name": "國聲廣播",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
-    "iurl": "https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx",   
+    "iurl": "http://43.254.16.40:8000/CH.AM1179?.mp3",   
     "category": "taiwan"  
   },
   {
