@@ -14,7 +14,7 @@
   {
     "name": "东莞电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/247.jpg",  
-    "iurl": "https://dgrtv.sun0769.com/index.php/online2/1",
+    "iurl": "https://stream.sun0769.com/dgrtv1/mp4tv10/index.m3u8",
     "category": "GDHK"  
   },  
   {
@@ -56,13 +56,13 @@
   {
     "name": "佛山新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fs946.png",   
-    "iurl": "https://www.radiofoshan.com.cn/stationplayer.html?id=46",   
+    "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8",   
     "category": "GDHK"  
   },
   {
     "name": "顺德901",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%BD%9B%E5%B1%B1901.jpg",   
-    "iurl": "https://www.radiofoshan.com.cn/stationplayer.html?id=44",   
+    "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_44_audio.m3u8",   
     "category": "GDHK"  
   },
   {
@@ -138,9 +138,9 @@
     "category": "Music"  
   },  
   {
-    "name": "佛山985",
+    "name": "佛山925",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/889.jpg",  
-    "iurl": "https://www.radiofoshan.com.cn/stationplayer.html?id=41",
+    "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_42_audio.m3u8",
     "category": "GDHK"  
   },
   {
@@ -182,7 +182,7 @@
   {
     "name": "东莞交通",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/online2.jpg",  
-    "iurl": "https://dgrtv.sun0769.com/index.php/online2/2",
+    "iurl": "https://stream.sun0769.com/dgrtv1/mp4tv11/index.m3u8",
     "category": "GDHK"  
   }, 
   {
@@ -363,7 +363,7 @@
   {
     "name": "ufm1003",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ufm.png",  
-    "iurl": "https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac",
+    "iurl": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003.mp3",
     "category": "Music" 
   },   
   {
