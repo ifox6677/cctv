@@ -116,7 +116,7 @@
   {
     "name": "栗子轻音乐",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/lizi.png",  
-    "iurl": "http://lizeradio.com:8080/;?type=http&nocache=33",
+    "iurl": "http://lizeradio.com:8080/;?.mp3",
     "category": "Music"  
   },
   {
