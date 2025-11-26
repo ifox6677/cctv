@@ -802,7 +802,7 @@
   {
     "name": "KBS新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/npr.png",   
-    "iurl": "https://zh.player.fm/series/kbs-world-radio-xin-wen-yan-jiao",   
+    "iurl": "http://world.kbs.co.kr/rss/Podcast_News_c.xml",   
     "category": "podcast"  
   },
   {
