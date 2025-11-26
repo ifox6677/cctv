@@ -833,7 +833,7 @@
   {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
-    "iurl": "https://zh.player.fm/series/chinese-news-nhk-world-radio-japan/nhk-world-radio-japan-chinese-news-at-1300-jst-january-01",   
+    "iurl": "https://www3.nhk.or.jp/nhkworld/zh/live_radio/",   
     "category": "podcast"  
   }  
 ]
