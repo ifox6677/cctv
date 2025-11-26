@@ -763,9 +763,9 @@
     "category": "china" 
   },
   {
-    "name": "西游记",
+    "name": "古今风云",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E8%A5%BF%E6%B8%B8%E8%AE%B0.jpg",  
-    "iurl": "https://www.itingshu.net/youshengxiaoshuo/21722/",
+    "iurl": "https://podcast.rthk.hk//podcast/people.xml",
     "category": "audiobook" 
   },   
   {
@@ -777,7 +777,7 @@
   {
     "name": "乡村鬼故事",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/npr.png",  
-    "iurl": "https://www.itingshu.net/youshengxiaoshuo/24841/",
+    "iurl": "https://www.ximalaya.com/album/40065770.xml",
     "category": "audiobook" 
   },   
   {
