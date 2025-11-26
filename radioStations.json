@@ -210,9 +210,9 @@
     "category": "GDHK"  
   },
   {
-    "name": "讲客电台HD",
+    "name": "大千电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
-    "iurl": "https://www.hakkaradio.org.tw/program/view/id/192/page/1",
+    "iurl": "http://125.227.87.206:8000/FM99.1?.mp3",
     "category": "GDHK"  
   },   
   {
@@ -336,15 +336,15 @@
     "category": "podcast"  
   },
   {
-    "name": "商业电台881(备)",
+    "name": "河源旅游",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",  
-    "iurl": "https://live.881903.com/edge-aac/881hd/chunks.m3u8",
+    "iurl": "https://tmpstream.hyrtv.cn/lygb/sd/live.m3u8",
     "category": "GDHK"  
   },
   {
-    "name": "商业电台903(备)",
+    "name": "深圳生活",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",   
-    "iurl": "https://live.881903.com/edge-aac/903hd/chunks.m3u8",   
+    "iurl": "https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8",   
     "category": "GDHK"  
   },
   {
@@ -655,9 +655,9 @@
     "category": "podcast"  
   },  
   {
-    "name": "说诡讲鬼",
+    "name": "天黑请闭眼",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/jgimage.jpg",   
-    "iurl": "https://player.soundon.fm/p/0fe1b9ca-d238-4fac-985c-69d5b4255d51",   
+    "iurl": "https://feed.firstory.me/rss/user/clu797e3n001401079ad1gwhk",   
     "category": "podcast"  
   },
   {
@@ -673,9 +673,9 @@
     "category": "podcast"  
   },   
   {
-    "name": "灵异鬼事",
+    "name": "犯罪浮世繪",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ytimage.jpg",   
-    "iurl": "https://player.soundon.fm/p/1d502a17-e812-49f6-9597-69e83c338583",   
+    "iurl": "https://feed.firstory.me/rss/user/cme85cej7020m01sxea9pbdr7",   
     "category": "podcast"  
   },
   {
@@ -685,9 +685,9 @@
     "category": "podcast"  
   },  
   {
-    "name": "疑案辦",
+    "name": "謎之懸律",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/1632979900770.jpg",   
-    "iurl": "https://player.soundon.fm/p/21539575-c5a9-4179-bfa8-bd973c333b0d",   
+    "iurl": "https://media.rss.com/melomysteries/feed.xml",   
     "category": "podcast"  
   },
   {
