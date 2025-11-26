@@ -833,7 +833,7 @@
   {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
-    "iurl": "https://www3.nhk.or.jp/rj/podcast/rss/chinese.xml",   
+    "iurl": "https://www3.nhk.or.jp/nhkworld/zh/live_radio/",   
     "category": "podcast"  
   }  
 ]
