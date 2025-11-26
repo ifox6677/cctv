@@ -198,9 +198,9 @@
     "category": "taiwan"  
   },  
   {
-    "name": "中广新闻HD",
+    "name": "福州交通",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-news.jpg",  
-    "iurl": "http://www.bcc.com.tw/stream.html?c=2",
+    "iurl": "https://live.zohi.tv/audio/s10001-FM876/index.m3u8",
     "category": "taiwan"  
   },
   {
