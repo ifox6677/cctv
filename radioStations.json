@@ -158,7 +158,7 @@
   {
     "name": "YES993",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/yes933.png",  
-    "iurl": "https://22393.live.streamtheworld.com/YES933_PREM.aac",
+    "iurl": "https://provisioning.streamtheworld.com/pls/YES933AAC.pls",
     "category": "Music"  
   },
   {
@@ -405,7 +405,7 @@
   {
     "name": "love972",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/love.jpg",   
-    "iurl": "https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac",   
+    "iurl": "https://provisioning.streamtheworld.com/pls/LOVE972FMAAC.pls",   
     "category": "Music"  
   },  
   {
