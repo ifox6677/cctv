@@ -485,7 +485,43 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/988.png",  
     "iurl": "https://stream-eu-a.rcs.revma.com/4r99rt1g1bkvv",
     "category": "taiwan"  
+  },
+  {
+    "name": "塞浦路斯",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025040700596084.jpg",  
+    "iurl": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio?.mp3",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "德云社",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025030935055469.jpg",   
+    "iurl": "https://stream.zeno.fm/yqawwmweq8mtv.mp3",   
+    "category": "audiobook"  
   },  
+  {
+    "name": "星岛中文",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025031035416809.jpg",  
+    "iurl": "https://nap.casthost.net/proxy/florence/stream.mp3",
+    "category": "audiobook" 
+  },   
+  {
+    "name": "加拿大中文",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025032078290297.jpg",   
+    "iurl": "https://stream.eseenet.com/radio/fm947.stream/chunklist_w1230117933.m3u8",   
+    "category": "audiobook"  
+  },  
+  {
+    "name": "桃园FM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025072700632177_mini.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/playlist.m3u8",   
+    "category": "audiobook"  
+  },
+  {
+    "name": "佳音电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025072700085836_mini.jpg",   
+    "iurl": "https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8",   
+    "category": "audiobook"  
+  },     
   {
     "name": "奇美爱乐",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kv.png",  
