@@ -499,9 +499,9 @@
     "category": "audiobook"  
   },  
   {
-    "name": "星岛中文",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025031035416809.jpg",  
-    "iurl": "https://nap.casthost.net/proxy/florence/stream.mp3",
+    "name": "澳洲华语",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ac878.jpg",  
+    "iurl": "https://stream4.rcast.net/71937/",
     "category": "audiobook" 
   },   
   {
