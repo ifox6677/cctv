@@ -415,9 +415,21 @@
     "category": "podcast"  
   },
   {
+    "name": "KBS新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/63311.webp",   
+    "iurl": "https://feed.xyzfm.space/mkkxu98dm89e",   
+    "category": "podcast"  
+  },
+  {
+    "name": "西游记",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/20220706152754165709247475924.jpg",   
+    "iurl": "https://anchor.fm/s/f31ab078/podcast/rss",   
+    "category": "podcast"  
+  },  
+  {
     "name": "无线新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/tvbimage.jpg",   
-    "iurl": "https://player.soundon.fm/p/07593470-9f99-4b05-b8d2-98a6350a2891",   
+    "iurl": "https://feeds.soundon.fm/podcasts/07593470-9f99-4b05-b8d2-98a6350a2891.xml",   
     "category": "podcast"  
   },  
   {
