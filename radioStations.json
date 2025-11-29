@@ -779,7 +779,19 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
     "iurl": "http://43.254.16.40:8000/ML.AM1215?.mp3",
     "category": "taiwan2" 
-  },    
+  },
+  {
+    "name": "鲶鱼夜话",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/GKwRIJEJFluWABCv8QJ2Uo0h.jpeg",   
+    "iurl": "https://www.ximalaya.com/album/66572833.xml",   
+    "category": "podcast"  
+  },
+  {
+    "name": "围头半岛",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/Flo117hGBnQP4kvHtDnVndVeA8nd.jpg",   
+    "iurl": "https://feed.xyzfm.space/n3nkrd6h33fe",   
+    "category": "podcast"  
+  },  
   {
     "name": "大愛",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
