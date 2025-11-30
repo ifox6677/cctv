@@ -66,15 +66,15 @@
     "category": "GDHK"  
   },
   {
-    "name": "商业电台881HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",  
-    "iurl": "https://www.881903.com/live/881",
+    "name": "MyFM",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gggzzzz13.jpg",  
+    "iurl": "https://tencentplay.gztv.com/live/fm880.m3u8?txSecret=a417c5f2c19b065b5d901a3be28c5ec9&txTime=195e68d982e",
     "category": "GDHK"  
   },
   {
-    "name": "商业电台903HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",   
-    "iurl": "https://www.881903.com/live/903",   
+    "name": "客家电台",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/633211.webp",   
+    "iurl": "https://lhttp.qingting.fm/live/5021942/64k.mp3",   
     "category": "GDHK"  
   },  
   {
@@ -108,10 +108,10 @@
     "category": "taiwan"  
   },  
   {
-    "name": "泉州88.9",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/889.jpg",   
-    "iurl": "https://stream.radiojar.com/z3ctv2zxm2zuv",   
-    "category": "china" 
+    "name": "广州新闻",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gggzzz.jpg",   
+    "iurl": "https://lhttp.qingting.fm/live/4848/64k.mp3",   
+    "category": "GDHK" 
   },
   {
     "name": "上海音乐",
@@ -234,9 +234,9 @@
     "category": "china" 
   },
   {
-    "name": "闽南广播",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%97%BD%E5%8D%97%E4%B9%8B%E5%A3%B0.png",  
-    "iurl": "https://live1b.kxm.xmtv.cn/aac_mnzsbf_1b/sd/live.m3u8",
+    "name": "央广",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/radio/%e4%b8%ad%e5%9b%bd%e4%b9%8b%e5%a3%b0.png",  
+    "iurl": "https://www.cnr.cn/gbzb/",
     "category": "china" 
   },  
   {
