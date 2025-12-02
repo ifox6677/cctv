@@ -332,7 +332,7 @@
   {
     "name": "晨早新闻天地",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bkhkczxw.jpg",   
-    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/all-episode.htm?cmsid=90",   
+    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=90",   
     "category": "podcast"  
   },
   {
@@ -693,7 +693,7 @@
   {
     "name": "晚间新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/170x170_919.jpg",   
-    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/all-episode.htm?cmsid=88",   
+    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=88",   
     "category": "podcast"  
   },  
   {
