@@ -889,6 +889,13 @@
     "iurl": "https://stream.rcs.revma.com/kydend74hv8uv",   
     "category": "taiwan"  
   },
+  {
+    "name": "FB live",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/asia923.jpg",   
+    "iurl": "https://www.youtube.com/watch?v=No_8M52Gjyg&list=PLBlwm-p_M-QzUnum0uL-N7BFodDP2lnv-",   
+    "category": "ytdlp"  
+  },
+  
   
   {
     "name": "NHK新闻",
