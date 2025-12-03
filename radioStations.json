@@ -891,11 +891,23 @@
   },
 
   {
-    "name": "射雕",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/asia923.jpg",   
+    "name": "三国演义",
+    "imageUrl": "https://storystudio.tw/storage/upload/article/2021/02/romance-of-the-three-kingdoms-some-not-true-1.jpg",   
     "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast.xml",   
     "category": "podcast"  
+  },
+  {
+    "name": "连城诀",
+    "imageUrl": "https://img9.doubanio.com/view/subject/s/public/s28735095.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast33（倚天）.xml",   
+    "category": "podcast"  
   },  
+  {
+    "name": "倚天毒龙",
+    "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast33（倚天）.xml",   
+    "category": "podcast"  
+  },    
   {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
