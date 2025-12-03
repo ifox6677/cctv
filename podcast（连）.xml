@@ -6,6 +6,7 @@
     <language>zh-cn</language>
     <itunes:author>未知</itunes:author>
     <description>金庸《连城诀》有声书整理版</description>
+    <itunes:image href="https://i.ting55.com/2015/07/1563.jpg"/>
 
     <item>
       <title>01 乡下人进城</title>
@@ -81,3 +82,4 @@
 
   </channel>
 </rss>
+
