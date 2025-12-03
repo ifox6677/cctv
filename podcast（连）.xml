@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>连城诀 · 金庸（有声书）</title>
+    <link>http://36.5.86.17:35661/</link>
+    <language>zh-cn</language>
+    <itunes:author>未知</itunes:author>
+    <description>金庸《连城诀》有声书整理版</description>
+
+    <item>
+      <title>01 乡下人进城</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/4525839298024110a217483a07a128bb.mp3" type="audio/mpeg"/>
+      <guid>01</guid>
+    </item>
+
+    <item>
+      <title>02 牢狱</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/b2fcfbd8697b4399ad9250131af4d460.mp3" type="audio/mpeg"/>
+      <guid>02</guid>
+    </item>
+
+    <item>
+      <title>03 人淡如菊</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/afc4f658a8bb48efbe869ee363ae079b.mp3" type="audio/mpeg"/>
+      <guid>03</guid>
+    </item>
+
+    <item>
+      <title>04 空心菜</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/fea739dfd364415ebbca01cdb1363f61.mp3" type="audio/mpeg"/>
+      <guid>04</guid>
+    </item>
+
+    <item>
+      <title>05 老鼠汤</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/8eb4d4790e7e4f7d970d8dcd74297669.mp3" type="audio/mpeg"/>
+      <guid>05</guid>
+    </item>
+
+    <item>
+      <title>06 血刀老祖</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/a5fa4ed0c01c45048c5511fe0a5ee3c3.mp3" type="audio/mpeg"/>
+      <guid>06</guid>
+    </item>
+
+    <item>
+      <title>07 落花流水</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/ee950195d4e84a818c2a72f769db34d2.mp3" type="audio/mpeg"/>
+      <guid>07</guid>
+    </item>
+
+    <item>
+      <title>08 雨衣</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/cab706a616b74411a63c68d4b9e5cc2b.mp3" type="audio/mpeg"/>
+      <guid>08</guid>
+    </item>
+
+    <item>
+      <title>09 梁祝</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/0e2de92d6e144b20abb58597d59eccf2.mp3" type="audio/mpeg"/>
+      <guid>09</guid>
+    </item>
+
+    <item>
+      <title>10 丁点</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/cbef064593404f5694c78cc28bc27b19.mp3" type="audio/mpeg"/>
+      <guid>10</guid>
+    </item>
+
+    <item>
+      <title>11 刘德华</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/698ff01584b746119f7f10bcbb65cde6.mp3" type="audio/mpeg"/>
+      <guid>11</guid>
+    </item>
+
+    <item>
+      <title>12 大举</title>
+      <enclosure url="http://36.5.86.17:35661/myfiles/host/listen/%E5%90%AC%E4%B9%A6%E7%9B%AE%E5%BD%95/%E8%BF%9E%E5%9F%8E%E8%AF%80~%E9%87%91%E5%BA%B8~%E6%9C%AA%E7%9F%A5/26dcd3d74e50440eaa4cf1fd62f0468f.mp3" type="audio/mpeg"/>
+      <guid>12</guid>
+    </item>
+
+  </channel>
+</rss>
