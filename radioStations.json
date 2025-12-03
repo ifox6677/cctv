@@ -889,7 +889,13 @@
     "iurl": "https://stream.rcs.revma.com/kydend74hv8uv",   
     "category": "taiwan"  
   },
-  
+
+  {
+    "name": "射雕",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/asia923.jpg",   
+    "iurl": "http://www.yuetingba.cn/book/detail/3a047988-3828-82b4-19c3-3d415fa09ac3/0",   
+    "category": "podcast"  
+  },  
   {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
