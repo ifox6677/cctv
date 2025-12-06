@@ -907,7 +907,13 @@
     "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
     "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast33（倚天）.xml",   
     "category": "podcast"  
-  },    
+  },  
+  {
+    "name": "倚天毒龙",
+    "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyqvOe8x99HvV5zWTOwY-rw",   
+    "category": "podcast"  
+  },   
   {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
