@@ -916,7 +916,7 @@
   },
   {
     "name": "有线新闻",
-    "imageUrl": "https://p5.itc.cn/q_70/images03/20220518/eead24f3243c4d4aaa6e228964a97146.jpeg",   
+    "imageUrl": "https://yt3.ggpht.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s88-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_q7e5XYJB0JDGagcF0KW0w",   
     "category": "YT"  
   },
@@ -924,6 +924,12 @@
     "name": "RagaFinance",
     "imageUrl": "https://yt3.ggpht.com/HqNFY7AwmSyVwjsCw9ZmMQvAfw3bU9SYCbiJTP1iGbChM2Ul4VHhdnGd-5_iFkaAVXpqKoedak0=s88-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCETuQf4lzTrfevoHdSGo8Ew",   
+    "category": "YT"  
+  },
+  {
+    "name": "鬼故事",
+    "imageUrl": "https://yt3.ggpht.com/YXwkhVRl1CpaJ-LLT8AgEFGzQVTPxyAxFHZ34xCYVsF1VazwjuASeC5ig8bVt8O-skmBSCGVWw=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC3DCSvMDwn3zn16wcbO1LOg",   
     "category": "YT"  
   },  
   {
