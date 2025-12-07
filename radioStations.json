@@ -909,11 +909,36 @@
     "category": "podcast"  
   },  
   {
-    "name": "倚天毒龙",
+    "name": "now电台",
+    "imageUrl": "https://cdn.broadbandtvnews.com/wp-content/uploads/2024/02/15132729/Now-TV-Hong-Kong.jpg",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCChMBgirwM2nnT3Bbe8METQ",   
+    "category": "YT"  
+  },
+  {
+    "name": "有线新闻",
+    "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_q7e5XYJB0JDGagcF0KW0w",   
+    "category": "YT"  
+  },
+  {
+    "name": "RagaFinance",
+    "imageUrl": "https://yt3.ggpht.com/HqNFY7AwmSyVwjsCw9ZmMQvAfw3bU9SYCbiJTP1iGbChM2Ul4VHhdnGd-5_iFkaAVXpqKoedak0=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCETuQf4lzTrfevoHdSGo8Ew",   
+    "category": "YT"  
+  },  
+  {
+    "name": "金人金鱼",
     "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyqvOe8x99HvV5zWTOwY-rw",   
-    "category": "podcast"  
-  },   
+    "category": "YT"  
+  },
+  {
+    "name": "王局拍腿",
+    "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBKDRq35-L8xev4O7ZqBeLg",   
+    "category": "YT"  
+  },
+    
   {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
