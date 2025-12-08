@@ -84,6 +84,12 @@
     "category": "taiwan"  
   },  
   {
+    "name": "读本好书",
+    "imageUrl": "https://i.ytimg.com/pl_c/PLFkHgNWcmIh6kwEP_rPXfcFKAh__L4cmt/studio_square_thumbnail.jpg?sqp=CJKk2skG-oaymwEICOADEOADSFqi85f_AwYI4aDBxQY=&rs=AOn4CLAjjFyHGhnAMChRyXijRgHr991KCg",   
+    "iurl": "https://www.youtube.com/watch?v=9rr9tLfrZb0&list=PLFkHgNWcmIh6kwEP_rPXfcFKAh__L4cmt",   
+    "category": "YTlist"  
+  },
+  {
     "name": "IC之音",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ic-broadcasting.jpg",   
     "iurl": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",   
