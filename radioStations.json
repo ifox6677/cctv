@@ -354,6 +354,12 @@
     "category": "GDHK"  
   },
   {
+    "name": "无线新闻",
+    "imageUrl": "https://yt3.ggpht.com/twse-CNDUyNOeQVZYRNdGiw0-nsjKfd-ivJU33RfDbVcxwatROIrgC7IrNyMTI9g89NEAeWSpQ=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_ifDTtFAcsj-wJ5JfM27CQ",   
+    "category": "YT"  
+  }, 
+  {
     "name": "rthk-2(备)",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://stm.rthk.hk/radio2",   
@@ -376,6 +382,24 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
     "iurl": "https://1603884249.rsc.cdn77.org/1603884249/tracks-a1/mono.m3u8",   
     "category": "GDHK"  
+  },  
+  {
+    "name": "信报",
+    "imageUrl": "https://yt3.ggpht.com/gpLXxxGfLPluN5Us47CMvWZqQL7vkKsJ4ahvnF32AwdvWJP5CdfheS31ZUU1iHYWbis9g6LndNU=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UClRaYVzu5DIh3kRZkXIX9WA",   
+    "category": "YT"  
+  },
+    {
+    "name": "经济日报",
+    "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kIbiYIHoBVdxC0ZpPdKZOvx5ABLbvwJgi35Cd3xBTq0D8=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCGw6s7FZV9AOwznWA-_Bt3Q",   
+    "category": "YT"  
+  },
+  {
+    "name": "Mila Yuen",
+    "imageUrl": "https://yt3.ggpht.com/TnhskyzmCS4eBjC5o_tOOl8ZW6fdJtGrSJUfIgJVOD5JuH_ywyirRv44bcf4S8OjecKDsSw6IA=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC4G8Si5IBGy9k_1Oo04DMVg",   
+    "category": "YT"  
   },  
   {
     "name": "MIX音乐",
@@ -933,18 +957,47 @@
     "category": "YT"  
   },  
   {
-    "name": "金人金鱼",
+    "name": "蔡金强",
     "imageUrl": "https://f.chongwunet.com/chongwunet/202305/f2/cea23bcc863470.png",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyqvOe8x99HvV5zWTOwY-rw",   
     "category": "YT"  
   },
+  {
+    "name": "X调查",
+    "imageUrl": "https://yt3.ggpht.com/ytc/AIdro_kVUNaNKDQTpfRmiT13oelULSfwm2WaEwXyQ2gW5oz-5L8=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOyshL6rKK1GqwoEfy_ehBg",   
+    "category": "YT"  
+  }, 
+  {
+    "name": "恐怖热线旧线",
+    "imageUrl": "https://yt3.ggpht.com/ytc/AIdro_mY5XsKveD9MT6WAKylcXcq0wsUEY6U8_4BNrFj9R2-EQ=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxRmEqpk7bvP103b_7Ooqtw",   
+    "category": "YT"  
+  },
+  {
+    "name": "中天新闻",
+    "imageUrl": "https://yt3.googleusercontent.com/stUf6P7kJeOrW96ZKdaHoYvg6USCR0MOe90jfOp2oTLOdPWeQDIKNm6S25wcEzJBXuVLRNmAag=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC5l1Yto5oOIgRXlI4p4VKbw",   
+    "category": "YT"  
+  }, 
+  {
+    "name": "AM730",
+    "imageUrl": "https://yt3.ggpht.com/ELaKQ6TkDhqhKFHwk828qfjIKl2xkeCuf2HHT2QemRivpIYcEzkn8eH0AgkseV3Ro7-0Sh7E=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzM2jQWmoeTvpEw63x5Rsdg",   
+    "category": "YT"  
+  },   
   {
     "name": "王局拍腿",
     "imageUrl": "https://cdn-prd.content.metamorphosis.com/wp-content/uploads/sites/2/2022/02/Low-Phosphorus-Dog-Food-why.jpg",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBKDRq35-L8xev4O7ZqBeLg",   
     "category": "YT"  
   },
-    
+  {
+    "name": "民报新闻",
+    "imageUrl": "https://yt3.ggpht.com/eq9GJ0t1CmnqrVFqohCpAQYtW6pzTwtg4ATiPJbjOtKGlHrcQ8FmY7b5taNl0crRQXs3GnOl=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2VmWn8dAqkzlQqvy02E1PA",   
+    "category": "YT"  
+  },    
   {
     "name": "NHK新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/aifm.png",   
