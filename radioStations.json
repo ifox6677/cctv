@@ -449,7 +449,13 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/20220706152754165709247475924.jpg",   
     "iurl": "https://anchor.fm/s/f31ab078/podcast/rss",   
     "category": "podcast"  
-  },  
+  }, 
+  {
+    "name": "王路飞",
+    "imageUrl": "https://yt3.googleusercontent.com/Mq_VaDdINhLyCj_3Y-uugre3FYktmBDWNQiHcOxQDpCeXeasemH2irVuY5hkqPifauUDRBpP_Q=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmajVvuOjspOA9WtJGquDHA",   
+    "category": "podcast"  
+  },   
   {
     "name": "无线新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/tvbimage.jpg",   
