@@ -60,6 +60,12 @@
     "category": "GDHK"  
   },
   {
+    "name": "七点新闻",
+    "imageUrl": "https://yt3.googleusercontent.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=PDRpDDt9iRg",   
+    "category": "YTlist"  
+  },  
+  {
     "name": "顺德901",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%BD%9B%E5%B1%B1901.jpg",   
     "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_44_audio.m3u8",   
