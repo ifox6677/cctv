@@ -60,11 +60,17 @@
     "category": "GDHK"  
   },
   {
-    "name": "七点新闻",
+    "name": "六点新闻（晚）",
     "imageUrl": "https://yt3.googleusercontent.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s160-c-k-c0x00ffffff-no-rj",   
-    "iurl": "https://www.youtube.com/watch?v=PDRpDDt9iRg",   
+    "iurl": "https://www.youtube.com/watch?v=oUo2WKFdekY",   
     "category": "YTlist"  
-  },  
+  }, 
+  {
+    "name": "六点新闻（早）",
+    "imageUrl": "https://yt3.googleusercontent.com/5FVXPQk0Hyxa-MgHG0jd0YPLWGcpfHfTCJIO_YYrP1mt2kPuQjRGNmrh4ykB6Avo6CIGD8Dv=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=qt3HLqCktYg",   
+    "category": "YTlist"  
+  },    
   {
     "name": "顺德901",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%BD%9B%E5%B1%B1901.jpg",   
@@ -88,10 +94,23 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bcc-lx.jpg",   
     "iurl": "https://stream.rcs.revma.com/s1zttsg3qtzuv",   
     "category": "taiwan"  
-  },  
+  },
+  {
+    "name": "寰宇世界",
+    "imageUrl": "https://yt3.googleusercontent.com/rcKSZ9TOod8vM90qsaF8pV6e6Mrh_INiOfhzRlLXiyvzeOYGoJrL2fWWGH0pHu-N0_rRdCLPbg=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=Ej3LQM_lTEw",   
+    "category": "YTlist"  
+  }，  
+  {  
+  {
+    "name": "东森新闻",
+    "imageUrl": "https://yt3.googleusercontent.com/3SP20B5NfOMGNTvAd4PkffLIHt7vA5_SrtefsCbmKBm4k4uD5JhSE2LzDsPyxWT6RP3BiW4vAA=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=V1p33hqPrUk",   
+    "category": "YTlist"  
+  }，  
   {
     "name": "读本好书",
-    "imageUrl": "https://i.ytimg.com/pl_c/PLFkHgNWcmIh6kwEP_rPXfcFKAh__L4cmt/studio_square_thumbnail.jpg?sqp=CJKk2skG-oaymwEICOADEOADSFqi85f_AwYI4aDBxQY=&rs=AOn4CLAjjFyHGhnAMChRyXijRgHr991KCg",   
+    "imageUrl": "https://yt3.googleusercontent.com/SGZWzm9KK2T5yA5KdK2PUgLeJOHh4-1tPEoh7geH6a7fEtVWciJw1S1g_KSC9Dz3XQvtYVbX=s160-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/watch?v=9rr9tLfrZb0&list=PLFkHgNWcmIh6kwEP_rPXfcFKAh__L4cmt",   
     "category": "YTlist"  
   },
@@ -100,7 +119,19 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ic-broadcasting.jpg",   
     "iurl": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",   
     "category": "taiwan"  
-  },    
+  },
+  {
+    "name": "TVBS",
+    "imageUrl": "https://yt3.ggpht.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s176-c-k-c0x00ffffff-no-rj-mo",   
+    "iurl": "https://www.youtube.com/watch?v=m_dhMSvUCIc",   
+    "category": "YTlist"  
+  }，
+  {
+    "name": "TVBS世界周报",
+    "imageUrl": "https://yt3.googleusercontent.com/GDivs2QeF1xqitaBR3zwnwYZ7xJ3iiQl55CJ1HIFDg1zh2FU88lsGxN2i8o4A1YMSAshvZjY=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=Cdo7f0KMSFE",   
+    "category": "YTlist"  
+  }，  
   {
     "name": "飞碟电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
