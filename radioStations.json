@@ -148,6 +148,12 @@
     "imageUrl": "https://yt3.googleusercontent.com/GDivs2QeF1xqitaBR3zwnwYZ7xJ3iiQl55CJ1HIFDg1zh2FU88lsGxN2i8o4A1YMSAshvZjY=s160-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/watch?v=Cdo7f0KMSFE",   
     "category": "YTlist"  
+  }，
+  {
+    "name": "光明顶",
+    "imageUrl": "https://yt3.googleusercontent.com/GDivs2QeF1xqitaBR3zwnwYZ7xJ3iiQl55CJ1HIFDg1zh2FU88lsGxN2i8o4A1YMSAshvZjY=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=tVnhomu14Q8&list=PL8F48316AE9AB7B14",   
+    "category": "YTlist"  
   }，  
   {
     "name": "飞碟电台",
@@ -1011,6 +1017,12 @@
     "category": "YT"  
   },
   {
+    "name": "香港01",
+    "imageUrl": "https://yt3.googleusercontent.com/1BBL9IdyphJGQAZDdw3ObZS7Ai0IlTd1-tYrorGMYdVqW-5KM4mw3R6l-pENq12O48X_vje0gA=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkJYN7_5_9s3Z3O6fZ3qG7A",   
+    "category": "YT"  
+  },  
+  {
     "name": "RagaFinance",
     "imageUrl": "https://yt3.ggpht.com/HqNFY7AwmSyVwjsCw9ZmMQvAfw3bU9SYCbiJTP1iGbChM2Ul4VHhdnGd-5_iFkaAVXpqKoedak0=s88-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCETuQf4lzTrfevoHdSGo8Ew",   
@@ -1050,6 +1062,12 @@
     "name": "AM730",
     "imageUrl": "https://yt3.ggpht.com/ELaKQ6TkDhqhKFHwk828qfjIKl2xkeCuf2HHT2QemRivpIYcEzkn8eH0AgkseV3Ro7-0Sh7E=s88-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCzM2jQWmoeTvpEw63x5Rsdg",   
+    "category": "YT"  
+  },
+  {
+    "name": "猛鬼频道",
+    "imageUrl": "https://yt3.googleusercontent.com/Q9XHxi2rqdyuwFuDiG-jKkH7-wxJWlIIC6onCBYpmzdJx6DE1Bvhp7W6rQEyX6AH96WqGSSAww=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCf3T3oSj_8a3Sr2p2Qxlk5w",   
     "category": "YT"  
   },   
   {
