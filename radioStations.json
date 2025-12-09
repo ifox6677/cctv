@@ -100,8 +100,19 @@
     "imageUrl": "https://yt3.googleusercontent.com/rcKSZ9TOod8vM90qsaF8pV6e6Mrh_INiOfhzRlLXiyvzeOYGoJrL2fWWGH0pHu-N0_rRdCLPbg=s160-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/watch?v=Ej3LQM_lTEw",   
     "category": "YTlist"  
-  }，  
-  {  
+  }，
+  {
+    "name": "股坛MM",
+    "imageUrl": "https://yt3.googleusercontent.com/RNfbgeS-VCLdVBNnkprS-mAvTudP50rg1YA--0YVvbvdNuVoP7D3VuS77uiXjfNcBuwT7VD1eLg=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=dKRfRhU7C48",   
+    "category": "YTlist"  
+  }，
+  {
+    "name": "好投资",
+    "imageUrl": "https://yt3.googleusercontent.com/rRLGNDCKvo8p4m48BBb3e0W4gyqclu9geaWiCvg2u5Mu2ujgpr-u-k10fqj3esGnqH0nBoQ8=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC337UWjXqFohuHRk4fLQkTw",   
+    "category": "YTlist"  
+  }，    
   {
     "name": "东森新闻",
     "imageUrl": "https://yt3.googleusercontent.com/3SP20B5NfOMGNTvAd4PkffLIHt7vA5_SrtefsCbmKBm4k4uD5JhSE2LzDsPyxWT6RP3BiW4vAA=s160-c-k-c0x00ffffff-no-rj",   
@@ -120,6 +131,12 @@
     "iurl": "https://stream.rcs.revma.com/7mnq8rt7k5zuv",   
     "category": "taiwan"  
   },
+  {
+    "name": "SET新势力",
+    "imageUrl": "https://yt3.googleusercontent.com/Ev3QRwfGxQ06hrCT8lo2fez7eq9S8MKKfJjE0Y5VG-pi68vFft4iT3aWYHiXhoClRG5yMpzUAA=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=zc_WXQwoGqk",   
+    "category": "YTlist"  
+  }，  
   {
     "name": "TVBS",
     "imageUrl": "https://yt3.ggpht.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s176-c-k-c0x00ffffff-no-rj-mo",   
