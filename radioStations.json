@@ -132,9 +132,9 @@
     "category": "taiwan"  
   },
   {
-    "name": "SET新势力",
+    "name": "SET新势力（19：30）",
     "imageUrl": "https://yt3.googleusercontent.com/Ev3QRwfGxQ06hrCT8lo2fez7eq9S8MKKfJjE0Y5VG-pi68vFft4iT3aWYHiXhoClRG5yMpzUAA=s160-c-k-c0x00ffffff-no-rj",   
-    "iurl": "https://www.youtube.com/watch?v=zc_WXQwoGqk",   
+    "iurl": "https://www.youtube.com/watch?v=dNzjBtbzx-4&list=PLF0zBBU4L_6ittYTFEFNB--FXKvsmebER",   
     "category": "YTlist"  
   }, 
   {
@@ -146,7 +146,7 @@
   {
     "name": "TVBS世界周报",
     "imageUrl": "https://yt3.googleusercontent.com/GDivs2QeF1xqitaBR3zwnwYZ7xJ3iiQl55CJ1HIFDg1zh2FU88lsGxN2i8o4A1YMSAshvZjY=s160-c-k-c0x00ffffff-no-rj",   
-    "iurl": "https://www.youtube.com/watch?v=Cdo7f0KMSFE",   
+    "iurl": "https://www.youtube.com/watch?v=8C0RxlA5ebQ&list=PLyvXVH_86VfblqpVtRq7D9vRyQMl6o2E8",   
     "category": "YTlist"  
   },
   {
@@ -1076,6 +1076,24 @@
     "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBKDRq35-L8xev4O7ZqBeLg",   
     "category": "YT"  
   },
+  {
+    "name": "白话新闻",
+    "imageUrl": "https://yt3.googleusercontent.com/PM3TxF4xoOxg61J78UfvXHmVd_Ul2WlsV5eCOIvmqO51vZrDRmRS0wPbPMutsGDGhRnEV6vARw=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=KYrbEZB6yyg&list=PLh9lJwqeOuvNPqHfKf10o5Ql9M-OEnoLy",   
+    "category": "YTlist"  
+  },    
+  {
+    "name": "KK秀",
+    "imageUrl": "https://yt3.ggpht.com/_XJcoR0uVyW3VM4DNeHm35rYjIKYamYXeXW15sLe9U5jHus4eOHoxnxVAfbjMJpbw9s_CH03Rg=s240-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCD2KoUc0f4Bv2Bz0mbOah8g",   
+    "category": "YT"  
+  },
+  {
+    "name": "四点神经",
+    "imageUrl": "https://yt3.ggpht.com/HqNFY7AwmSyVwjsCw9ZmMQvAfw3bU9SYCbiJTP1iGbChM2Ul4VHhdnGd-5_iFkaAVXpqKoedak0=s88-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/watch?v=ARo5XN80gM0&list=PLBlwm-p_M-Qw8y1QLXc3gvtFWJuXk1-2V",   
+    "category": "YTlist"  
+  },  
   {
     "name": "民报新闻",
     "imageUrl": "https://yt3.ggpht.com/eq9GJ0t1CmnqrVFqohCpAQYtW6pzTwtg4ATiPJbjOtKGlHrcQ8FmY7b5taNl0crRQXs3GnOl=s88-c-k-c0x00ffffff-no-rj",   
