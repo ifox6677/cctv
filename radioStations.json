@@ -24,12 +24,6 @@
     "category": "Music"  
   },
   {
-    "name": "都市FM",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bravo-fm.jpg",   
-    "iurl": "https://onair.bravo913.com.tw:9130/live.mp3",   
-    "category": "Music"  
-  },  
-  {
     "name": "珠江台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdjz.png",   
     "iurl": "https://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8",   
