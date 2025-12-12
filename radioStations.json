@@ -408,6 +408,12 @@
     "category": "GDHK"  
   },
   {
+    "name": "射雕英雄传",
+    "imageUrl": "https://assets.mycast.io/actor_images/actor-legend-of-condor-heroes-1110629_large.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/shediao_playlist.xml",   
+    "category": "YT"  
+  }, 
+  {
     "name": "rthk-1(备)",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
     "iurl": "https://stm.rthk.hk/radio1",   
