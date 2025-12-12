@@ -56,7 +56,7 @@
   {
     "name": "六点新闻（晚）",
     "imageUrl": "https://yt3.googleusercontent.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s160-c-k-c0x00ffffff-no-rj",   
-    "iurl": "https://www.youtube.com/watch?v=SIRmGtJ4Yc8&list=PLIpRvnEkgEeU15yy2o_5gKQjr79KP8O2O",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLIpRvnEkgEeU15yy2o_5gKQjr79KP8O2O",   
     "category": "YTlist"  
   }, 
   {
