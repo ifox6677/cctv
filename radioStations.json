@@ -23,30 +23,13 @@
     "iurl": "https://www.radiofoshan.com.cn/stationplayer.html?id=42",   
     "category": "Official"  
   },
-  {
-    "name": "东莞电台（官网）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/online2.jpg",   
-    "iurl": "https://dgrtv.sun0769.com/index.php/online2/1",   
-    "category": "Official"  
-  },  
+
   {
     "name": "广州电台（官网）",
     "imageUrl": "https://gzbn.gztv.com/filedata/default/gswicon.png",   
     "iurl": "https://www.gztv.com/#/channel",   
     "category": "Official"  
-  },
-  {
-    "name": "泉州交通电台（官网）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/889.jpg",   
-    "iurl": "https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowonCoQ/stream_name/fm904.html",   
-    "category": "Official"  
-  },
-  {
-    "name": "河南之声（官网）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/河南音乐广播.png",   
-    "iurl": "https://www.hntv.tv/radio/article/1/1261232124879572992?v=1.0",   
-    "category": "Official"  
-  },  
+  }, 
   {
     "name": "顺德电台（官网）",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%BD%9B%E5%B1%B1901.jpg",   
