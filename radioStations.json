@@ -12,9 +12,9 @@
     "category": "GDHK"  
   },
   {
-    "name": "北京电台（官网）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/北京交通广播.png",   
-    "iurl": "https://www.rbc.cn/",   
+    "name": "广西电台（官网）",
+    "imageUrl": "https://h5.gxtv.cn/special/2025PCradio/images/logo.png",   
+    "iurl": "https://h5.gxtv.cn/special/2025PCradio/default.html",   
     "category": "Official"  
   },    
    {
@@ -42,9 +42,9 @@
     "category": "Official"  
   },
   {
-    "name": "刺桐之声（官网）",
-    "imageUrl": "https://pic.nximg.cn/20130508/11090788_002119440136_2.jpg",   
-    "iurl": "https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowpHCoQ/stream_name/fm1059.html",   
+    "name": "河南之声（官网）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/河南音乐广播.png",   
+    "iurl": "https://www.hntv.tv/radio/article/1/1261232124879572992?v=1.0",   
     "category": "Official"  
   },  
   {
