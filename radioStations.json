@@ -1,16 +1,58 @@
 [ 
   {
+    "name": "广东电台(官网)",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
+    "iurl": "https://www.gdtv.cn/audioChannelDetail/85",   
+    "category": "Official"  
+  },   
+  {
     "name": "广东新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
     "iurl": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8",   
     "category": "GDHK"  
   },
   {
-    "name": "广东电台HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
-    "iurl": "https://www.gdtv.cn/audioChannelDetail/85",   
-    "category": "GDHK"  
-  }, 
+    "name": "北京电台（官网）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/北京交通广播.png",   
+    "iurl": "https://www.rbc.cn/",   
+    "category": "Official"  
+  },    
+   {
+    "name": "佛山电台（官网）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fs946.png",   
+    "iurl": "https://app.radiofoshan.com.cn/future/#/pages/radio/radio",   
+    "category": "Official"  
+  },
+  {
+    "name": "东莞电台（官网）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/online2.jpg",   
+    "iurl": "https://dgrtv.sun0769.com/index.php/online2/1",   
+    "category": "Official"  
+  },  
+  {
+    "name": "广州电台（官网）",
+    "imageUrl": "https://gzbn.gztv.com/filedata/default/gswicon.png",   
+    "iurl": "https://www.gztv.com/#/channel",   
+    "category": "Official"  
+  },
+  {
+    "name": "泉州交通电台（官网）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/889.jpg",   
+    "iurl": "https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowonCoQ/stream_name/fm904.html",   
+    "category": "Official"  
+  },
+  {
+    "name": "刺桐之声（官网）",
+    "imageUrl": "https://pic.nximg.cn/20130508/11090788_002119440136_2.jpg",   
+    "iurl": "https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowpHCoQ/stream_name/fm1059.html",   
+    "category": "Official"  
+  },  
+  {
+    "name": "福州电台（官网）",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/福州交通广播.png",   
+    "iurl": "https://www.zohi.tv/app/tv/804",   
+    "category": "Official"  
+  },    
   {
     "name": "东莞电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/247.jpg",  
@@ -294,10 +336,10 @@
     "category": "china" 
   },
   {
-    "name": "央广",
+    "name": "央广（官网）",
     "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
     "iurl": "https://www.cnr.cn/gbzb/",
-    "category": "china" 
+    "category": "Official" 
   },  
   {
     "name": "经济之声",
@@ -321,13 +363,13 @@
     "name": "新城财经",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
     "iurl": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",   
-    "category": "GDHK"  
+    "category": "Official"  
   },
   {
     "name": "新城资讯",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
     "iurl": "https://www.metroradio.com.hk/superhome/Live997.aspx",   
-    "category": "GDHK"  
+    "category": "Official"  
   },  
   {
     "name": "普通话台",
@@ -336,10 +378,10 @@
     "category": "GDHK"  
   },
   {
-    "name": "普通话台HD",
+    "name": "普通话台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
     "iurl": "https://www.rthk.hk/radio/pth",   
-    "category": "GDHK"  
+    "category": "Official"  
   },  
   {
     "name": "rthk-1",
@@ -348,10 +390,10 @@
     "category": "GDHK"  
   },
   {
-    "name": "rthk-1HD",
+    "name": "rthk-1",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
     "iurl": "https://www.rthk.hk/radio/radio1",   
-    "category": "GDHK"  
+    "category": "Official"  
   },  
   {
     "name": "rthk-2",
@@ -360,10 +402,10 @@
     "category": "GDHK"  
   },
   {
-    "name": "rthk-2HD",
+    "name": "rthk-2",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://www.rthk.hk/radio/radio2",   
-    "category": "GDHK"  
+    "category": "Official"  
   },  
   {
     "name": "rthk-5",
