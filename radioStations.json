@@ -3,39 +3,14 @@
     "name": "广东电台(官网)",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
     "iurl": "https://www.gdtv.cn/audioChannelDetail/85",   
-    "category": "Official"  
+    "category": "GDHK"  
   },   
   {
     "name": "广东新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
     "iurl": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8",   
     "category": "GDHK"  
-  },
-  {
-    "name": "广西电台（官网）",
-    "imageUrl": "https://h5.gxtv.cn/special/2025PCradio/images/logo.png",   
-    "iurl": "https://h5.gxtv.cn/special/2025PCradio/default.html",   
-    "category": "Official"  
-  },    
-   {
-    "name": "佛山电台（官网）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fs946.png",   
-    "iurl": "https://www.radiofoshan.com.cn/stationplayer.html?id=42",   
-    "category": "Official"  
-  },
-
-  {
-    "name": "广州电台（官网）",
-    "imageUrl": "https://gzbn.gztv.com/filedata/default/gswicon.png",   
-    "iurl": "https://www.gztv.com/#/channel",   
-    "category": "Official"  
-  }, 
-  {
-    "name": "顺德电台（官网）",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%BD%9B%E5%B1%B1901.jpg",   
-    "iurl": "https://www.radiofoshan.com.cn/stationplayer.html?id=44",   
-    "category": "Official"  
-  },    
+  },  
   {
     "name": "东莞电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/247.jpg",  
@@ -322,7 +297,7 @@
     "name": "央广（官网）",
     "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
     "iurl": "https://m.cnr.cn/#/pages/broadcast/broadcast",
-    "category": "Official" 
+    "category": "china" 
   },  
   {
     "name": "经济之声",
@@ -346,13 +321,13 @@
     "name": "新城财经",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
     "iurl": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",   
-    "category": "Official"  
+    "category": "GDHK"  
   },
   {
     "name": "新城资讯",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
     "iurl": "https://www.metroradio.com.hk/superhome/Live997.aspx",   
-    "category": "Official"  
+    "category": "GDHK"  
   },  
   {
     "name": "普通话台",
@@ -361,10 +336,10 @@
     "category": "GDHK"  
   },
   {
-    "name": "普通话台",
+    "name": "普通话台HD",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
     "iurl": "https://www.rthk.hk/radio/pth",   
-    "category": "Official"  
+    "category": "GDHK"  
   },  
   {
     "name": "rthk-1",
@@ -373,10 +348,10 @@
     "category": "GDHK"  
   },
   {
-    "name": "rthk-1",
+    "name": "rthk-1HD",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
     "iurl": "https://www.rthk.hk/radio/radio1",   
-    "category": "Official"  
+    "category": "GDHK"  
   },  
   {
     "name": "rthk-2",
@@ -385,10 +360,10 @@
     "category": "GDHK"  
   },
   {
-    "name": "rthk-2",
+    "name": "rthk-2HD",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://www.rthk.hk/radio/radio2",   
-    "category": "Official"  
+    "category": "GDHK"  
   },  
   {
     "name": "rthk-5",
