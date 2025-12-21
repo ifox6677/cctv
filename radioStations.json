@@ -1008,19 +1008,38 @@
     "name": "三国演义",
     "imageUrl": "https://storystudio.tw/storage/upload/article/2021/02/romance-of-the-three-kingdoms-some-not-true-1.jpg",   
     "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast.xml",   
-    "category": "podcast"  
+    "category": "audiobook"  
   },
   {
     "name": "连城诀",
     "imageUrl": "https://img9.doubanio.com/view/subject/s/public/s28735095.jpg",   
     "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast（连）.xml",   
-    "category": "podcast"  
+    "category": "audiobook"  
   },  
   {
     "name": "倚天毒龙",
     "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
     "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast33（倚天）.xml",   
-    "category": "podcast"  
+    "category": "audiobook"  
+  }, 
+  {
+    "name": "司马中原讲鬼",
+    "imageUrl": "https://k.sinaimg.cn/n/sinakd20115/94/w1024h670/20240104/f2b2-6104764ab582e27130ffdfb8ff2d8ef6.jpg/w700d1q75cms.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/司馬中原playlist_rss.xml",   
+    "category": "audiobook"  
+  },    
+   {
+    "name": "笑谈历史",
+    "imageUrl": "https://imgres.qulishi.com/qulishi/113/562907-2024032111100265fba50aab20a.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/笑谈历史playlist_rss.xml",   
+    "category": "audiobook"  
+  },
+
+  {
+    "name": "福尔摩斯",
+    "imageUrl": "http://5b0988e595225.cdn.sohucs.com/images/20190112/114a7246fb164462a646cec66ea08b14.jpeg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/福尔摩斯playlist_rss.xml",   
+    "category": "audiobook"  
   },  
   {
     "name": "now电台",
