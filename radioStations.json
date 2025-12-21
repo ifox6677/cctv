@@ -516,6 +516,12 @@
     "iurl": "https://feed.xyzfm.space/mkkxu98dm89e",   
     "category": "podcast"  
   },
+   {
+    "name": "每周分析",
+    "imageUrl": "https://yt3.googleusercontent.com/7tTz4eheQIkBPee269WQbvqz-QJT5wQjM6e-aizg5-AXDhrW-m-fQ_kNztTVJYbaTSvAXSrKLUM=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PL_PiSxd-jzuaaENjx2Hqy3faxcJ-3_jV4",   
+    "category": "YTlist"  
+  },  
   {
     "name": "西游记",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/20220706152754165709247475924.jpg",   
