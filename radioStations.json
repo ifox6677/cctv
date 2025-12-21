@@ -660,6 +660,12 @@
     "iurl": "https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8",
     "category": "Music"  
   },
+   {
+    "name": "新闻天地",
+    "imageUrl": "https://yt3.googleusercontent.com/5Aq-huW6cxFPbkOmR-uBFYlBoaq-4tMgUOv6WDStz_GaUsVLq4rSkF-zviVr3Akl6QHHNB8SBA=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLm30xDjDCFYUgNwieYI-yxRxLw9hXZk-t",   
+    "category": "YT"  
+  },  
   {
     "name": "安徽故事",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%AE%89%E5%BE%BD%E6%95%85%E4%BA%8B%E5%B9%BF%E6%92%AD.png",  
