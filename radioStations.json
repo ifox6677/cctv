@@ -925,6 +925,12 @@
     "category": "china" 
   },
   {
+    "name": "新煎地教室",
+    "imageUrl": "https://i.ytimg.com/vi/FzT3u6sMLms/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqezrmhaPWOdYAjC4BUgnnCDINPQ",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLBlwm-p_M-QzkcJOYdfjvQzqq_kXHVYDV",   
+    "category": "YTlist"  
+  },  
+  {
     "name": "RTI华语",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/rti.png",  
     "iurl": "https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/chunklist.m3u8",
