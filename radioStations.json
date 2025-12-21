@@ -797,7 +797,26 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/170x170_919.jpg",   
     "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=88",   
     "category": "podcast"  
-  },  
+  },
+  {
+    "name": "二十四史",
+    "imageUrl": "https://img.alicdn.com/bao/uploaded/i4/2429775882/O1CN01h8avhI1tK0Wj0puib_!!0-item_pic.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B2playlist_rss.xml",   
+    "category": "audiobook"  
+  },    
+   {
+    "name": "楚留香",
+    "imageUrl": "https://so1.360tres.com/t01f9aa0a799ea81a74.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/楚留香playlist_rss.xml",   
+    "category": "audiobook"  
+  },
+
+  {
+    "name": "萧十一郎",
+    "imageUrl": "https://so1.360tres.com/t0135fc367875d0f5fc.png",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast-xiaoshiyilang.xml",   
+    "category": "audiobook"  
+  },   
   {
     "name": "SBS中国",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%B9%A1%E6%9D%91%E4%B9%8B%E5%A3%B0.png",   
