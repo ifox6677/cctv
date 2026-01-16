@@ -52,13 +52,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/fs946.png",   
     "iurl": "https://radiopull.radiofoshan.com.cn/live/1400820947_BSID_46_audio.m3u8",   
     "category": "GDHK"  
-  },
-  {
-    "name": "泉州88.9",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/889.jpg",   
-    "iurl": "https://dgrtv.sun0769.com/index.php/online2/1",   
-    "category": "china" 
-  },  
+  }, 
   {
     "name": "六点新闻（晚）",
     "imageUrl": "https://yt3.googleusercontent.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s160-c-k-c0x00ffffff-no-rj",   
