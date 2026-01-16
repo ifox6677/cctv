@@ -54,6 +54,12 @@
     "category": "GDHK"  
   },
   {
+    "name": "泉州88.9",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/889.jpg",   
+    "iurl": "https://www.qztv.cn/index/Medias/index/media_id/wq95wqbDnMKyd8KiwqzChnt0w5nChcKowoXCoQ/stream_name/fm889.html",   
+    "category": "china" 
+  },  
+  {
     "name": "六点新闻（晚）",
     "imageUrl": "https://yt3.googleusercontent.com/5SyayqjT175EHx7Mox79MUkBCqCK5wXgu6IfQz3YoQFVByGncsc79K63Dmvr4FwYMAv_EsYJ6A=s160-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLIpRvnEkgEeU15yy2o_5gKQjr79KP8O2O",   
