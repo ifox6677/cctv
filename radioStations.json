@@ -4,6 +4,12 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
     "iurl": "https://www.gdtv.cn/audioChannelDetail/85",   
     "category": "GDHK"  
+  },
+  {
+    "name": "广州电台（官网）",
+    "imageUrl": "https://gzbn.gztv.com/filedata/default/gswicon.png",   
+    "iurl": "https://www.gztv.com/#/channel",   
+    "category": "GDHK"  
   },   
   {
     "name": "广东新闻",
@@ -35,6 +41,12 @@
     "iurl": "https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8",   
     "category": "GDHK"  
   },
+  {
+    "name": "央广（官网）",
+    "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
+    "iurl": "https://www.cnr.cn/gbzb/",
+    "category": "GDHK" 
+  },  
   {
     "name": "广东文体",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdwt.png",   
@@ -76,13 +88,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gggzzzz13.jpg",  
     "iurl": "https://tencentplay.gztv.com/live/fm880.m3u8?txSecret=a417c5f2c19b065b5d901a3be28c5ec9&txTime=195e68d982e",
     "category": "GDHK"  
-  },
-  {
-    "name": "广州电台（官网）",
-    "imageUrl": "https://gzbn.gztv.com/filedata/default/gswicon.png",   
-    "iurl": "https://www.gztv.com/#/channel",   
-    "category": "GDHK"  
-  },   
+  },  
   {
     "name": "客家电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/633211.webp",   
@@ -297,12 +303,6 @@
     "name": "中国之声",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%e4%b8%ad%e5%9b%bd%e4%b9%8b%e5%a3%b0.png",
     "iurl": "https://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
-    "category": "china" 
-  },
-  {
-    "name": "央广（官网）",
-    "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
-    "iurl": "https://www.cnr.cn/gbzb/",
     "category": "china" 
   },  
   {
