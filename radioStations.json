@@ -414,9 +414,9 @@
     "category": "GDHK"  
   },
   {
-    "name": "射雕英雄传",
-    "imageUrl": "https://assets.mycast.io/actor_images/actor-legend-of-condor-heroes-1110629_large.jpg",   
-    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/射鵰英雄傳_rss.xml",   
+    "name": "794局",
+    "imageUrl": "https://x0.ifengimg.com/res/2022/439648D213E5309724603F87233405EABB0EBA09_size837_w1920_h974.png",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/794局_rss.xml",   
     "category": "audiobook"  
   }, 
   {
@@ -877,6 +877,12 @@
     "category": "taiwan"  
   },
   {
+    "name": "半夜怪談劇場（周更）",
+    "imageUrl": "https://yt3.googleusercontent.com/uXDlT4wvHRnrzYQadAozXikRnXHbU78pBWsC3bQ_DU3FRoW4UmfbrqtoXNaq7L5IRRi3fY1UbrM=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLEBGnk9dUJ0ehnl4omH8sDBb4l8HPYN3G",   
+    "category": "YT"  
+  },  
+  {
     "name": "上海故事",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%B8%8A%E6%B5%B7%E6%95%85%E4%BA%8B%E5%B9%BF%E6%92%AD.png",  
     "iurl": "https://lhttp.qingting.fm/live/275/64k.mp3?app_id=web",
@@ -967,9 +973,9 @@
     "category": "audiobook" 
   },   
   {
-    "name": "三国演义",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E4%B8%89%E5%9B%BD.jpg",   
-    "iurl": "https://www.itingshu.net/youshengxiaoshuo/33339/",   
+    "name": "半夜怪谈",
+    "imageUrl": "https://yt3.googleusercontent.com/uXDlT4wvHRnrzYQadAozXikRnXHbU78pBWsC3bQ_DU3FRoW4UmfbrqtoXNaq7L5IRRi3fY1UbrM=s160-c-k-c0x00ffffff-no-rj",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/半夜怪谈_rss.xml",   
     "category": "audiobook"  
   },
   {
@@ -1035,15 +1041,15 @@
     "category": "audiobook"  
   },
   {
-    "name": "连城诀",
-    "imageUrl": "https://img9.doubanio.com/view/subject/s/public/s28735095.jpg",   
-    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast（连）.xml",   
+    "name": "第九特区",
+    "imageUrl": "https://img.phb123.com/uploads/allimg/220826/810-220R6111S80-L.png",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/第九特区_rss.xml",   
     "category": "audiobook"  
   },  
   {
-    "name": "倚天毒龙",
-    "imageUrl": "https://k.sinaimg.cn/n/sinakd10110/759/w468h291/20210825/179e-ed3119fe1c19b07e80a760056815110c.png/w700d1q75cms.jpg",   
-    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast33（倚天）.xml",   
+    "name": "冒险屋",
+    "imageUrl": "http://www.yunyuedzw.com/files/article/image/0/244/244s.jpg",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/冒险屋_rss.xml",   
     "category": "audiobook"  
   }, 
   {
