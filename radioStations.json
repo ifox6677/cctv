@@ -220,7 +220,56 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hizsyy.jpg",  
     "iurl": "https://stream.radiojar.com/60sqadqu97zuv.mp3",
     "category": "taiwan2" 
-  }, 
+  },
+  {
+    "name": "Jia FM",
+    "imageUrl": "https://radoxo.com/images/singapore/88-3jia.jpg",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/883JIAAAC.pls",   
+    "category": "Music"  
+  },
+  {
+    "name": "JIA粤语",
+    "imageUrl": "https://radoxo.com/images/singapore/883jia-canto-pop.png",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/HARRYS_S02.pls",   
+    "category": "Music"  
+  },  
+  {
+    "name": "Class 95",
+    "imageUrl": "https://radoxo.com/images/singapore/class-95-fm.jpg",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/CLASS95AAC.pls",   
+    "category": "Music"  
+  },  
+  {
+    "name": "Capital 958",
+    "imageUrl": "https://radoxo.com/images/singapore/capital-958.jpg",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/CAPITAL958FMAAC.pls",   
+    "category": "taiwan2"  
+  },  
+  {
+    "name": "SMOOTH JAZZ",
+    "imageUrl": "https://radoxo.com/images/singapore/smooth-jazz.png",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/SMOOTHJAZZ_S01.pls",   
+    "category": "Music"  
+  },  
+  {
+    "name": "988 FM",
+    "imageUrl": "https://radoxo.com/images/malaysia/988-fm.jpg",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/988_FM.pls",   
+    "category": "taiwan2"  
+  },  
+  {
+    "name": "Ai FM",
+    "imageUrl": "https://radoxo.com/images/malaysia/ai-fm.jpg",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/AI_FMAAC.pls",   
+    "category": "taiwan2"  
+  },           
+  
+  {
+    "name": "Red FM",
+    "imageUrl": "https://radoxo.com/images/malaysia/red-fm.jpg",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/RED_FMAAC.pls",   
+    "category": "taiwan2"  
+  },  
   {
     "name": "新西兰",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025032068367993.jpg",  
@@ -236,7 +285,7 @@
   {
     "name": "YES993",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/yes933.png",  
-    "iurl": "https://provisioning.streamtheworld.com/pls/YES933AAC.pls",
+    "iurl": "https://playerservices.streamtheworld.com/pls/YES933AAC.pls",
     "category": "Music"  
   },
   {
@@ -248,7 +297,7 @@
   {
     "name": "HAO963",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hao.jpg",  
-    "iurl": "https://provisioning.streamtheworld.com/pls/HAO_963AAC.pls",
+    "iurl": "https://playerservices.streamtheworld.com/pls/HAO_963AAC.pls",
     "category": "Music"  
   },  
   {
@@ -507,13 +556,13 @@
   {
     "name": "ufm1003",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ufm.png",  
-    "iurl": "https://provisioning.streamtheworld.com/pls/UFM_1003AAC.pls",
+    "iurl": "https://playerservices.streamtheworld.com/pls/UFM_1003AAC.pls",
     "category": "Music" 
   },   
   {
     "name": "love972",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/love.jpg",   
-    "iurl": "https://provisioning.streamtheworld.com/pls/LOVE972FMAAC.pls",   
+    "iurl": "https://playerservices.streamtheworld.com/pls/LOVE972FMAAC.pls",   
     "category": "Music"  
   },  
   {
