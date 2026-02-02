@@ -10,7 +10,19 @@
     "imageUrl": "https://gzbn.gztv.com/filedata/default/gswicon.png",   
     "iurl": "https://www.gztv.com/#/channel",   
     "category": "GDHK"  
-  },   
+  },
+  {
+    "name": "央广（官网）",
+    "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
+    "iurl": "https://www.cnr.cn/gbzb/",
+    "category": "GDHK" 
+  },  
+  {
+    "name": "广播云",
+    "imageUrl": "https://img-s.msn.cn/tenant/amp/entityid/AA1UouF9.img",   
+    "iurl": "https://www.radio.cn/pc-portal/erji/radioStation.html",   
+    "category": "GDHK"  
+  },  
   {
     "name": "广东新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
@@ -40,12 +52,6 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdjt.png",   
     "iurl": "https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8",   
     "category": "GDHK"  
-  },
-  {
-    "name": "央广（官网）",
-    "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
-    "iurl": "https://www.cnr.cn/gbzb/",
-    "category": "GDHK" 
   },
   {
     "name": "大汉之音",
@@ -443,13 +449,7 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E6%B7%B1%E5%9C%B3%E9%A3%9E%E6%89%AC971.png",   
     "iurl": "https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8",   
     "category": "GDHK"  
-  },  
-  {
-    "name": "云听",
-    "imageUrl": "https://img-s.msn.cn/tenant/amp/entityid/AA1UouF9.img",   
-    "iurl": "https://www.radio.cn/pc-portal/erji/radioStation.html",   
-    "category": "GDHK"  
-  },  
+  },    
   {
     "name": "晨早新闻天地",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bkhkczxw.jpg",   
