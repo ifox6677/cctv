@@ -547,11 +547,66 @@
     "category": "taiwan"  
   },
   {
-    "name": "复兴电台",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/new4.png",   
+    "name": "环宇广播",
+    "imageUrl": "https://radoxo.com/images/taiwan/fm967.jpg",   
     "iurl": "https://stream.rcs.revma.com/srn5f9kmwxhvv",   
     "category": "taiwan"  
   },
+  {
+    "name": "B&B RADIO",
+    "imageUrl": "https://zuiai.tv/zb_users/upload/2025/12/2025122377405025.jpg",   
+    "iurl": "https://cdn280.ccdntech.com/live-http/_definst_/vod280_Live/bb/chunklist.m3u8",   
+    "category": "taiwan"  
+  },
+  {
+    "name": "兵团广播",
+    "imageUrl": "https://zuiai.tv/zb_users/upload/2025/6/2025062475964577.jpg",   
+    "iurl": "https://liveout.btzx.com.cn/x2q67n/0aw2u8.m3u8",   
+    "category": "china"  
+  },  
+  {
+    "name": "正声广播",
+    "imageUrl": "https://radoxo.com/images/taiwan/cbc.png",   
+    "iurl": "https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w2110882430.m3u8",   
+    "category": "taiwan"  
+  },  
+  {
+    "name": "好事935",
+    "imageUrl": "https://radoxo.com/images/taiwan/best-93-5.png",   
+    "iurl": "https://stream.rcs.revma.com/vh0xgcc59duvv",   
+    "category": "Music"  
+  },  
+  {
+    "name": "亚洲电台",
+    "imageUrl": "https://radoxo.com/images/taiwan/fm927.jpg",   
+    "iurl": "https://stream.rcs.revma.com/xpgtqc74hv8uv",   
+    "category": "Music"  
+  },  
+  {
+    "name": "国际广播电台",
+    "imageUrl": "https://radoxo.com/images/taiwan/fm101-1-taoyuan-international-radio.png",   
+    "iurl": "http://61.220.75.207:8101/",   
+    "category": "taiwan"  
+  },  
+  {
+    "name": "淡江之声",
+    "imageUrl": "https://radoxo.com/images/taiwan/fm88-7.jpg",   
+    "iurl": "http://163.13.182.81:8001/votk",   
+    "category": "taiwan"  
+  },           
+  
+  {
+    "name": "大金广播电台",
+    "imageUrl": "https://radoxo.com/images/taiwan/daikin-radio.png",   
+    "iurl": "http://61.220.75.207:8106/",   
+    "category": "taiwan"  
+  },  
+  {
+    "name": "下港之声",
+    "imageUrl": "https://radoxo.com/images/taiwan/fm90-5-the-voice-of-xiagang.png",   
+    "iurl": "http://59.120.255.155:8081/",   
+    "category": "taiwan"  
+  },             
   {
     "name": "國聲廣播",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
