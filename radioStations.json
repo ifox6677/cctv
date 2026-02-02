@@ -769,18 +769,12 @@
     "iurl": "https://stream.rcs.revma.com/ks4vsmg3qtzuv",
     "category": "Music"  
   },
-  {
-    "name": "轻松调频",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E8%BD%BB%E6%9D%BE%E8%B0%83%E9%A2%91.png",  
-    "iurl": "http://sk.cri.cn/915.m3u8",
+   {
+    "name": "辅大之声",
+    "imageUrl": "https://radoxo.com/images/taiwan/voice-of-fju.jpg",   
+    "iurl": "http://140.136.115.115:8000/fjuvoice885.mp3",   
     "category": "Music"  
-  },
-  {
-    "name": "CNR经典音乐",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%93%88%E5%B0%94%E6%BB%A8%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%B9%BF%E6%92%AD.png",  
-    "iurl": "https://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8",
-    "category": "Music"  
-  },
+  }, 
   {
     "name": "古典音乐",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%8F%B0%E6%B9%BE%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%8F%B0.png",  
