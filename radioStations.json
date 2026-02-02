@@ -46,6 +46,12 @@
     "imageUrl": "https://archive.org/services/img/china-radio-international-06-03-2024-0000-utc-7350k-hz/full/pct:500/0/default.jpg",  
     "iurl": "https://www.cnr.cn/gbzb/",
     "category": "GDHK" 
+  },
+  {
+    "name": "大汉之音",
+    "imageUrl": "https://radoxo.com/images/taiwan/hakkafm971.jpg",   
+    "iurl": "http://taiwan-radio.tw:8000/ML.FM97.1",   
+    "category": "GDHK"  
   },  
   {
     "name": "广东文体",
