@@ -420,6 +420,12 @@
     "category": "GDHK"  
   },
   {
+    "name": "BOSS ONLINE",
+    "imageUrl": "https://radoxo.com/images/taiwan/boss-online-radio.jpg",   
+    "iurl": "https://stream.radiojar.com/ehzvurp9tv8uv",   
+    "category": "Music"  
+  },  
+  {
     "name": "794局",
     "imageUrl": "https://x0.ifengimg.com/res/2022/439648D213E5309724603F87233405EABB0EBA09_size837_w1920_h974.png",   
     "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/794局_rss.xml",   
