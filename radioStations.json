@@ -837,6 +837,18 @@
     "category": "Music"  
   }, 
   {
+    "name": "今周大耳朵",
+    "imageUrl": "https://files.soundon.fm/1631866912538-b7229513-4427-4581-b74e-8abc4d47a6b2.jpeg",   
+    "iurl": "https://feeds.soundon.fm/podcasts/0d428b4f-0cf3-44ad-a7ce-f6b359da55b9.xml",   
+    "category": "podcast"  
+  },
+  {
+    "name": " Texas",
+    "imageUrl": "https://www.nihaohouston.com/wp-content/uploads/2021/06/cropped-TCR_logo_new.png",   
+    "iurl": "https://video1.getstreamhosting.com:2000/stream/8216",   
+    "category": "china"  
+  },   
+  {
     "name": "古典音乐",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E5%8F%B0%E6%B9%BE%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E5%8F%B0.png",  
     "iurl": "http://59.120.88.155:8000/live.mp3",
