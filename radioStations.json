@@ -681,18 +681,6 @@
     "category": "taiwan"  
   },
   {
-    "name": "华光",
-    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/60/62/5b/60625bce-d9bd-b0b7-09a9-37630c784cd8/mza_10741476360827440532.jpeg/512x512bb.jpg",   
-    "iurl": "http://www.voh.com.tw/KwongWah/m3u8.aspx",   
-    "category": "taiwan"  
-  },  
-  {
-    "name": "汉声",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
-    "iurl": "http://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx?Type=1",   
-    "category": "taiwan"  
-  },  
-  {
     "name": "台北电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/tbs.jpg",   
     "iurl": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",   
