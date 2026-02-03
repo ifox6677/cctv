@@ -681,6 +681,12 @@
     "category": "taiwan"  
   },
   {
+    "name": "华光",
+    "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/60/62/5b/60625bce-d9bd-b0b7-09a9-37630c784cd8/mza_10741476360827440532.jpeg/512x512bb.jpg",   
+    "iurl": "https://www.voh.com.tw/KwongWah/m3u8.aspx",   
+    "category": "taiwan"  
+  },  
+  {
     "name": "古都",
     "imageUrl": "https://www.fm1025.com.tw/images/logo_01.png",   
     "iurl": "https://www.fm1025.com.tw/Home/Radio",   
