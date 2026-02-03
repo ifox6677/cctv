@@ -683,19 +683,13 @@
   {
     "name": "华光",
     "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/60/62/5b/60625bce-d9bd-b0b7-09a9-37630c784cd8/mza_10741476360827440532.jpeg/512x512bb.jpg",   
-    "iurl": "https://www.voh.com.tw/KwongWah/m3u8.aspx",   
+    "iurl": "http://www.voh.com.tw/KwongWah/m3u8.aspx",   
     "category": "taiwan"  
   },  
   {
-    "name": "古都",
-    "imageUrl": "https://www.fm1025.com.tw/images/logo_01.png",   
-    "iurl": "https://www.fm1025.com.tw/Home/Radio",   
-    "category": "Music"  
-  },
-  {
     "name": "汉声",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
-    "iurl": "https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx?Type=1",   
+    "iurl": "http://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx?Type=1",   
     "category": "taiwan"  
   },  
   {
