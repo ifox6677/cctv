@@ -676,10 +676,22 @@
   },             
   {
     "name": "國聲廣播",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
+    "imageUrl": "https://ksbc.com.tw/archive/image/weblogo/logo.png",   
     "iurl": "http://43.254.16.40:8000/CH.AM1179?.mp3",   
     "category": "taiwan"  
   },
+  {
+    "name": "古都",
+    "imageUrl": "https://www.fm1025.com.tw/images/logo_01.png",   
+    "iurl": "https://www.fm1025.com.tw/Home/Radio",   
+    "category": "Music"  
+  },
+  {
+    "name": "汉声",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",   
+    "iurl": "https://audio.voh.com.tw/TW/Program/ugC_AMFM.aspx?Type=1",   
+    "category": "taiwan"  
+  },  
   {
     "name": "台北电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/tbs.jpg",   
