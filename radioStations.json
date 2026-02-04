@@ -344,7 +344,7 @@
   },
   {
     "name": "大千电台",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/kjdt.jpg",  
+    "imageUrl": "https://images.radiosonline.app/508/zCDf6T2tLL.png",  
     "iurl": "http://125.227.87.206:8000/FM99.1?.mp3",
     "category": "GDHK"  
   },   
@@ -1054,7 +1054,7 @@
   },
   {
     "name": "天聲廣播",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "imageUrl": "https://images.radiosonline.app/100088/n2wVprxNnu.png",  
     "iurl": "http://43.254.16.40:8000/ML.AM1215?.mp3",
     "category": "taiwan2" 
   },
@@ -1072,7 +1072,7 @@
   },  
   {
     "name": "大愛",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",  
+    "imageUrl": "https://images.radiosonline.app/10701/9SWdTXM8dj.png",  
     "iurl": "https://stream.radiojar.com/eme6n6k3rxhvv",
     "category": "taiwan2" 
   },
