@@ -154,7 +154,19 @@
     "imageUrl": "https://yt3.googleusercontent.com/Ev3QRwfGxQ06hrCT8lo2fez7eq9S8MKKfJjE0Y5VG-pi68vFft4iT3aWYHiXhoClRG5yMpzUAA=s160-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLF0zBBU4L_6ittYTFEFNB--FXKvsmebER",   
     "category": "YTlist"  
-  }, 
+  },
+  {
+    "name": "apple-line",
+    "imageUrl": "https://images.radiosonline.app/92192/umbskyupzd.png",   
+    "iurl": "https://ipget.apple-line.com/radio_alineweb.php",   
+    "category": "Music"  
+  },  
+  {
+    "name": "hitFM",
+    "imageUrl": "https://www.hitoradio.com/newweb/onair.png",   
+    "iurl": "https://www.hitoradio.com/newweb/onair_n_ajax.php",   
+    "category": "Music"  
+  },   
   {
     "name": "TVBS",
     "imageUrl": "https://yt3.ggpht.com/IrPD-qWFtgEr0kplk7RvA5HWJz3BLzg8mBMh9bz2lNvRSE_YgCErB7dheHcQohExnC_VCdCKnA=s176-c-k-c0x00ffffff-no-rj-mo",   
