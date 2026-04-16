@@ -24,6 +24,12 @@
     "category": "GDHK"  
   },  
   {
+    "name": "广播网",
+    "imageUrl": "https://static.mytuner.mobi/media/tvos_radios/pvwpexvbskyd.jpg",   
+    "iurl": "https://www.radiotaiwan.tw",   
+    "category": "GDHK"  
+  },   
+  {
     "name": "广东新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/gdxw.png",   
     "iurl": "https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8",   
@@ -192,10 +198,10 @@
     "category": "taiwan"  
   },
   {
-    "name": "飞碟电台",
+    "name": "飞碟电台（官）",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E9%A3%9E%E7%A2%9F%E7%94%B5%E5%8F%B0.png",   
-    "iurl": "https://www.uforadio.com.tw/schedule",   
-    "category": "taiwan2"  
+    "iurl": "https://www.uforadio.com.tw",   
+    "category": "taiwan"  
   },  
   {
     "name": "全国FM",
@@ -385,9 +391,9 @@
     "category": "china" 
   },
   {
-    "name": "好事983",
+    "name": "好事联播网",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/best.jpg",  
-    "iurl": "https://stream.rcs.revma.com/q2m07dc59duvv",
+    "iurl": "http://www.bestradio.com.tw",
     "category": "taiwan"  
   },
   {
