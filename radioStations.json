@@ -795,6 +795,12 @@
     "category": "taiwan"  
   },
   {
+    "name": "罗马尼亚",
+    "imageUrl": "https://www.rri.ro/wp-content/uploads/2024/09/ucra-microfon-rri-dimensiune-mare-scaled-1-410x231.jpg",  
+    "iurl": "https://www.rri.ro/zh-hans",
+    "category": "china" 
+  },   
+  {
     "name": "塞浦路斯",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/2025040700596084.jpg",  
     "iurl": "https://cdn.istoikona.com/ccnradio/ccnradio/icecast.audio?.mp3",
@@ -854,7 +860,25 @@
     "iurl": "https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8",
     "category": "Music"  
   },
-   {
+  {
+    "name": "恩典与真理",
+    "imageUrl": "https://f.pcly.work/images/program_banners/pm_prog_banner_sqx.jpg",   
+    "iurl": "https://f.pcly.work/pm-rss",   
+    "category": "podcast"  
+  },
+  {
+    "name": "i-Radio爱广播",
+    "imageUrl": "https://f.pcly.work/images/program_banners/ir_prog_banner_sqx.jpg",   
+    "iurl": "https://f.pcly.work/ir-rss",   
+    "category": "podcast"  
+  },
+  {
+    "name": "真爱世界",
+    "imageUrl": "https://f.pcly.work/images/program_banners/tv_prog_banner_sqx.jpg",   
+    "iurl": "https://f.pcly.work/tv-rss",   
+    "category": "podcast"  
+  },  
+  {
     "name": "新闻天地",
     "imageUrl": "https://yt3.googleusercontent.com/5Aq-huW6cxFPbkOmR-uBFYlBoaq-4tMgUOv6WDStz_GaUsVLq4rSkF-zviVr3Akl6QHHNB8SBA=s160-c-k-c0x00ffffff-no-rj",   
     "iurl": "https://www.youtube.com/feeds/videos.xml?playlist_id=PLm30xDjDCFYUgNwieYI-yxRxLw9hXZk-t",   
