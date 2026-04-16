@@ -867,6 +867,12 @@
     "category": "podcast"  
   },
   {
+    "name": "微声盼望",
+    "imageUrl": "https://f.pcly.work/images/program_banners/wr_prog_banner_sqx.jpg",   
+    "iurl": "https://f.pcly.work/wr-rss",   
+    "category": "podcast"  
+  },  
+  {
     "name": "i-Radio爱广播",
     "imageUrl": "https://f.pcly.work/images/program_banners/ir_prog_banner_sqx.jpg",   
     "iurl": "https://f.pcly.work/ir-rss",   
