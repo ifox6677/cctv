@@ -1029,9 +1029,9 @@
     "category": "china" 
   },
   {
-    "name": "道德经",
+    "name": "水滸傳",
     "imageUrl": "https://img.alicdn.com/i3/2591108390/O1CN01VUNMgd2BqfacBz7Nk_!!2591108390-0-lubanu-s.jpg",   
-    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/laozi_rss.xml",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/朱嘉雯老師講水滸傳.xml",   
     "category": "audiobook"  
   },   
   {
@@ -1277,9 +1277,9 @@
   },
 
   {
-    "name": "三国演义",
-    "imageUrl": "https://storystudio.tw/storage/upload/article/2021/02/romance-of-the-three-kingdoms-some-not-true-1.jpg",   
-    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/podcast.xml",   
+    "name": "紅樓夢",
+    "imageUrl": "https://i.ytimg.com/vi/zJGDPaV9Wl4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCFDv1CyUZ4MrVi831GX1ToifYYeA",   
+    "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/朱嘉雯老師講紅樓夢.xml",   
     "category": "audiobook"  
   },
   {
