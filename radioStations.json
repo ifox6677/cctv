@@ -403,16 +403,24 @@
     "category": "podcast"  
   },
   {
-    "name": "商业电台",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",  
-    "iurl": "https://www.881903.com/live/881",
-    "category": "GDHK"  
+  "name": "商业903",
+  "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",
+  "iurl": "https://live-s.881903.com/edge-aac/903hd/chunks.m3u8",
+  "category": "GDHK",
+  "fetchUrl": "https://www.881903.com/live/903"
   },
+  {
+  "name": "商业881",
+  "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",
+  "iurl": "https://live-s.881903.com/edge-aac/881hd/chunks.m3u8",
+  "category": "GDHK",
+  "fetchUrl": "https://www.881903.com/live/881"
+  },  
   {
     "name": "深圳生活",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",   
     "iurl": "https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8",   
-    "category": "GDHK"  
+    "category": "Music"  
   },
   {
     "name": "BOSS ONLINE",
