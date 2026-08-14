@@ -399,7 +399,7 @@
   {
     "name": "晨早新闻天地",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bkhkczxw.jpg",   
-    "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=1066&page=0",   
+    "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=1062&page=0",   
     "category": "podcast"  
   },
   {
