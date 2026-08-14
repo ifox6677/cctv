@@ -424,7 +424,7 @@
   },
   {
     "name": "古都广播",
-    "imageUrl": "https://www.fm1025.com.tw/images/logo_01.png",   
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/logo_01345yu.png",   
     "iurl": "https://www.fm1025.com.tw/",   
     "category": "taiwan"  
   },   
@@ -466,7 +466,7 @@
   },
   {  
     "name": "復興",
-    "imageUrl": "https://acunetix.ugear.tw/tw/uPhoto/HomeImg/202508191547_954899.png",   
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/202508191547_954899.png",   
     "iurl": "https://acunetix.ugear.tw/tw/program/ugc_amfm.aspx",   
     "category": "taiwan"  
   },  
