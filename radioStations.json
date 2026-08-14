@@ -516,7 +516,7 @@
   {
     "name": "e线金融网",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hkpth.jpg",   
-    "iurl": "https://www.rthk.hk/radio/pth/programme/ezone2020",   
+    "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=9058&page=0",   
     "category": "podcast"  
   },
   {
