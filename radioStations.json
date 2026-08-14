@@ -343,46 +343,34 @@
     "category": "taiwan"  
   },
   {
-    "name": "新城财经",
+    "name": "新城电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
     "iurl": "https://www.metroradio.com.hk/superhome/LiveMF.aspx",   
-    "category": "GDHK"  
-  },
-  {
-    "name": "新城资讯",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-showbiz-fm.jpg",   
-    "iurl": "https://www.metroradio.com.hk/superhome/Live997.aspx",   
     "category": "GDHK"  
   },  
   {
     "name": "普通话台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
     "iurl": "https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/index_64_a.m3u8",   
-    "category": "GDHK"  
-  },
-  {
-    "name": "普通话台HD",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-putonghua.jpg",   
-    "iurl": "https://www.rthk.hk/radio/pth",   
-    "category": "GDHK"  
-  },  
+    "category": "xianggang"  
+  }, 
   {
     "name": "rthk-1",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-1.jpg",   
     "iurl": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",   
-    "category": "GDHK"  
+    "category": "xianggang"  
   },  
   {
     "name": "rthk-2",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-2.jpg",   
     "iurl": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8",   
-    "category": "GDHK"  
+    "category": "xianggang"  
   },  
   {
     "name": "rthk-5",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/rthk-5.jpg",   
     "iurl": "https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/index_64_a.m3u8",   
-    "category": "GDHK"  
+    "category": "xianggang"  
   },  
   {
     "name": "澳门电台",
@@ -400,20 +388,20 @@
     "name": "晨早新闻天地",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bkhkczxw.jpg",   
     "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=1062&page=0",   
-    "category": "podcast"  
+    "category": "xianggang"  
   },
   {
   "name": "商业903",
   "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/903.png",
   "iurl": "https://live-s.881903.com/edge-aac/903hd/chunks.m3u8",
-  "category": "GDHK",
+  "category": "xianggang",
   "fetchUrl": "https://www.881903.com/live/903"
   },
   {
   "name": "商业881",
   "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/881.png",
   "iurl": "https://live-s.881903.com/edge-aac/881hd/chunks.m3u8",
-  "category": "GDHK",
+  "category": "xianggang",
   "fetchUrl": "https://www.881903.com/live/881"
   },  
   {
@@ -441,10 +429,10 @@
     "category": "YT"  
   }, 
   {
-    "name": "新城财经（备）",
+    "name": "新城财经",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/metro-finance-fm.jpg",   
     "iurl": "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.m3u8",   
-    "category": "GDHK"  
+    "category": "xianggang"  
   },
   {
     "name": "古都广播",
@@ -517,7 +505,7 @@
     "name": "e线金融网",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/hkpth.jpg",   
     "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=9058&page=0",   
-    "category": "podcast"  
+    "category": "xianggang"  
   },
   {
     "name": "小林说",
@@ -799,7 +787,7 @@
     "name": "晚间新闻",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/170x170_919.jpg",   
     "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=88",   
-    "category": "podcast"  
+    "category": "xianggang"  
   },
   {
     "name": "二十四史",
@@ -912,8 +900,8 @@
   {
     "name": "古今风云",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/%E8%A5%BF%E6%B8%B8%E8%AE%B0.jpg",  
-    "iurl": "https://podcast.rthk.hk//podcast/people.xml",
-    "category": "audiobook" 
+    "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=4819&page=0",
+    "category": "xianggang" 
   },   
   {
     "name": "半夜怪谈",
