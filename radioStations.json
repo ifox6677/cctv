@@ -508,6 +508,24 @@
     "category": "xianggang"  
   },
   {
+    "name": "輕談淺唱不夜天",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/31RpSA6DikL.jpg",  
+    "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=407&page=0",
+    "category": "xianggang" 
+  },   
+  {
+    "name": "星月爭輝",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/ggghhj_s.jpg",   
+    "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=6317&page=0",   
+    "category": "xianggang"  
+  },  
+  {
+    "name": "大學堂",
+    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/xxxyyyy.jpg",   
+    "iurl": "https://apip01.rthk.hk/apps/otg3in1/feeds.php?action=radio_get_episode_list&pid=11865&page=0",   
+    "category": "xianggang"  
+  },  
+  {
     "name": "小林说",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/63311.webp",   
     "iurl": "https://feed.xyzfm.space/mkkxu98dm89e",   
@@ -764,13 +782,7 @@
     "imageUrl": "https://img.alicdn.com/i3/2591108390/O1CN01VUNMgd2BqfacBz7Nk_!!2591108390-0-lubanu-s.jpg",   
     "iurl": "https://raw.githubusercontent.com/ifox6677/cctv/main/朱嘉雯老師講水滸傳.xml",   
     "category": "audiobook"  
-  }, 
-  {
-    "name": "王路飞",
-    "imageUrl": "https://i.pinimg.com/736x/86/2a/06/862a0642cf59b1798ec6b6234936726d.jpg",   
-    "iurl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCmajVvuOjspOA9WtJGquDHA",   
-    "category": "podcast"  
-  },  
+  },   
   {
     "name": "农村电台",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/%E4%B9%A1%E6%9D%91%E4%B9%8B%E5%A3%B0.png",  
@@ -782,12 +794,6 @@
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/live/main/radio/cnr%E7%A5%9E%E5%B7%9E%E4%B9%8B%E5%A3%B0.png",  
     "iurl": "https://satellitepull.cnr.cn/live/wxszzs/playlist.m3u8",
     "category": "china" 
-  },
-  {
-    "name": "晚间新闻",
-    "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/170x170_919.jpg",   
-    "iurl": "https://news.rthk.hk/rthk/ch/news-programmes/this-episode.htm?cmsid=88",   
-    "category": "xianggang"  
   },
   {
     "name": "二十四史",
