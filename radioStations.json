@@ -165,49 +165,42 @@
    "name":"HIT FM 宜蘭 FM97.1",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/Hitfm_logo.jpg",
    "iurl":"twstream://hitfm?ch=4",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"HIT FM 花東 FM107.7",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/Hitfm_logo.jpg",
    "iurl":"twstream://hitfm?ch=5",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"Aline Radio aline",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/apple-line-radop.jpg",
    "iurl":"twstream://aline?ch=1",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"Aline Radio y991",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/apple-line-radop.jpg",
    "iurl":"twstream://aline?ch=2",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  }, 
  {
    "name":"復興廣播 FM",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/202508191547_954899.png",
    "iurl":"twstream://fhbs?ch=1",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
    
  { "name":"復興廣播 AM",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/202508191547_954899.png",
    "iurl":"twstream://fhbs?ch=2",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  { "name":"漢聲廣播 FM",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",
    "iurl":"twstream://voh?ch=1",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"漢聲廣播 AM",
@@ -220,53 +213,45 @@
    "name":"光華之聲",
    "imageUrl":"https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/60/62/5b/60625bce-d9bd-b0b7-09a9-37630c784cd8/mza_10741476360827440532.jpeg/512x512bb.jpg",
    "iurl":"twstream://kwongwah?ch=1",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
- {
-  
+ {  
    "name":"HIT FM 北部 FM107.7",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/Hitfm_logo.jpg",
    "iurl":"twstream://hitfm?ch=1",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"HIT FM 中部 FM91.5",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/Hitfm_logo.jpg",
    "iurl":"twstream://hitfm?ch=2",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"HIT FM 南部 FM90.1",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/Hitfm_logo.jpg",
    "iurl":"twstream://hitfm?ch=3",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"Aline Radio y1065",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/apple-line-radop.jpg",
    "iurl":"twstream://aline?ch=3",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"Aline Radio a987",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/apple-line-radop.jpg",
    "iurl":"twstream://aline?ch=4",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },
  {
    "name":"Aline Radio a989",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/apple-line-radop.jpg",
    "iurl":"twstream://aline?ch=5",
-   "category":"hitoradio",
-   "fetchUrl":""
+   "category":"hitoradio"
  },  
-  {
+ {
     "name": "北京文艺",
     "imageUrl": "https://raw.githubusercontent.com/ifox6677/cctv/main/png/bjwenyi.jpg",  
     "iurl": "https://brtv-radiolive.rbc.cn/alive/fm876.m3u8",
