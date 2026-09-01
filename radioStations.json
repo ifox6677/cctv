@@ -201,7 +201,7 @@
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/202508191547_954899.png",
    "iurl":"twstream://fhbs?ch=2",
    "category":"hitoradio",
-   "fetchUrl":"
+   "fetchUrl":""
  },
  { "name":"漢聲廣播 FM",
    "imageUrl":"https://raw.githubusercontent.com/ifox6677/cctv/main/png/voice-of-han-broadcasting-netw.jpg",
